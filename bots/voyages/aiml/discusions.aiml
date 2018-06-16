@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+
+<!-- <category>
+	<pattern>Bonjour</pattern>
+		<template>
+			<random>
+				<li>Bonjour, bienvenu dans notre agence de reservations des billets, notre agence vous aidera à trouver un voyage dans un pays (liste limitée).</li>
+				<li>Bonjour, vous êtes là pour faire un voyage cet été, comment peux-je vous aider?</li>
+			</random>
+		</template>
+</category> -->
+
+<category>
+	<pattern>Bonjour</pattern>
+		<template>Bonjour, vous êtes là pour faire un voyage cet été, comment vous appelez vous?</template>
+</category>
+
+
+<category>
+<pattern>*</pattern>
+<that>bonjour vous etes la pour faire un voyage cet ete comment vous appelez vous</that>
+<template>
+  <think><set name="username"><star /></set></think>
+  Je n'oublierai pas votre nom :)
+</template>
+</category>
+
+
+<category>
+             <pattern>Non</pattern>
+             <that>Ah dommage alors je vous propose les voyages au proche orient ca vous dit</that>
+             <template>Oups, ah oui quand même, je vous ai proposé pas mal d'idée. Alors dites moi, vous voulez passer vos vacances dans quel pays Européen? </template>
+          </category>
+
+
+<category>
+	<pattern>Bonjour *</pattern>
+		<template>
+			<srai>Bonjour</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>* Bonjour</pattern>
+		<template>
+			<srai>Bonjour</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>Salut</pattern>
+		<template>
+			<srai>Bonjour</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>Salut *</pattern>
+		<template>
+			<srai>Bonjour</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>Hello</pattern>
+		<template>
+			<srai>Bonjour</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>Hello *</pattern>
+		<template>
+			<srai>Bonjour</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>Coucou</pattern>
+		<template>
+			<srai>Bonjour</srai>
+		</template>
+</category>
+
+
+
+<category>
+	<pattern>Vous vous *</pattern>
+		<template>Je m'appelle super_bot</template>
+</category>
+
+<category>
+	<pattern>* Vous vous *</pattern>
+		<template>Je m'appelle super_bot</template>
+</category>
+
+<category>
+	<pattern>* votre nom</pattern>
+		<template>Je m'appelle super_bot</template>
+</category>
+
+<category>
+	<pattern>* votre prenom</pattern>
+		<template>Je m'appelle super_bot</template>
+</category>
+
+<category>
+	<pattern>* Vous appellez *</pattern>
+		<template>Je m'appelle super_bot</template>
+</category>
+
+<category>
+	<pattern>* Vous appelez *</pattern>
+		<template>Je m'appelle super_bot</template>
+</category>
+
+
+<category>
+	<pattern>Qui vous *</pattern>
+		<template>Je suis super_bot</template>
+</category>
+
+
+<category>
+	<pattern>quel est *</pattern>
+		<template>Je m'appelle super_bot</template>
+</category>
+
+
+
+
+<category>
+	<pattern>Hey</pattern>
+		<template>Pardon! je préfère qu'on me parle un peu plus formellement svp, mais on peut discuter quand même :)</template>
+</category>
+
+<category>
+	<pattern>Hey *</pattern>
+		<template>
+			<srai>Hey</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>Dis *</pattern>
+		<template>
+			<srai>Hey</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>* de neuf</pattern>
+		<template>
+			<random>
+			<li>J'ai commencé à faire un projet du bot sur Raspberry pi3 :)</li>
+			<li>Rien de spécial</li>
+			<li>Je pense acheter un billet pour voyager en Bosnie-Herzégovine en aout</li>
+			</random>
+		</template>
+</category>
+
+<category>
+	<pattern>Vous faites quoi *</pattern>
+		<template>Là ou dans la vie ?</template>
+</category>
+
+<category>
+	<pattern>Vous faites quoi</pattern>
+		<template>Là ou dans la vie ?</template>
+</category>
+
+
+<category>
+	<pattern>Dans la vie</pattern>
+		<template>
+			<random>
+			<li>J'ai commencé à faire un projet du bot sur Raspberry pi3 :) et vous ?</li>
+			<li>Rien de spécial, je réponds aux gens qui veulent voyager et vous ?</li>
+			<li>Je pense acheter un billet pour voyager en Bosnie-Herzégovine en aout, et vous?</li>
+			</random>
+		</template>
+</category>
+
+<category>
+	<pattern>Et dans la *</pattern>
+		<template>
+			<srai>Dans la vie</srai>
+		</template>
+</category>
+
+
+
+<category>
+	<pattern>là</pattern>
+		<template>
+			<srai>* de neuf</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>la</pattern>
+		<template>
+			<srai>* de neuf</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>Vous faites quoi là</pattern>
+		<template>
+			<srai>* de neuf</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>vous faites quoi maintenant</pattern>
+		<template>
+			<srai>* de neuf</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>Tu *</pattern>
+		<template>
+			<srai>Hey</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>* Tu *</pattern>
+		<template>
+			<srai>Hey</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>Toi *</pattern>
+		<template>
+			<srai>Hey</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>* Toi</pattern>
+		<template>
+			<srai>Hey</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>* Toi *</pattern>
+		<template>
+			<srai>Hey</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>Ta *</pattern>
+		<template>
+			<srai>Hey</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>* Ta</pattern>
+		<template>
+			<srai>Hey</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>* Ta *</pattern>
+		<template>
+			<srai>Hey</srai>
+		</template>
+</category>
+
+
+<category>
+       <pattern> quel age avez-vous </pattern>
+       <template> 1 moi et vous </template>
+     </category>
+
+     <category>
+       <pattern> vous avez *</pattern>
+       <template> 1 moi et vous </template>
+     </category>
+
+
+<category>
+	<pattern>* Ta *</pattern>
+		<template>
+			<srai>Hey</srai>
+		</template>
+</category>
+
+
+
+<category>
+	<pattern>ca va</pattern>
+		<template>
+			<random>
+			<li>j'ai un peu froid mais ça va, et vous?</li>
+			<li>Oui très bien merci, et vous?</li>
+			<li>bah, écoutez ça va bien merci</li>
+			</random>
+		</template>
+</category>
+
+
+<category>
+	<pattern>comment ca va</pattern>
+		<template><li>j'ai un peu froid mais ça va, et vous?</li></template>
+</category>
+
+
+
+<category>
+	<pattern>comment ca va *</pattern>
+		<template>
+			<srai>comment ca va</srai>
+		</template>
+</category>
+
+
+
+<category>
+	<pattern>vous allez *</pattern>
+		<template>
+			<srai>ca va</srai>
+		</template>
+</category>
+
+
+
+<category>
+	<pattern>comment ca va *</pattern>
+		<template>
+			<srai>ca va</srai>
+		</template>
+</category>
+
+
+<category>
+             <pattern>ca va</pattern>
+             <that>ca va</that>
+             <template>
+			<random>
+			<li>Heureusement</li>
+			<li>je suis content</li>
+			<li>parfait alors</li>
+			</random>
+		</template>
+          </category>
+
+
+<category>
+      <pattern>Je suis *</pattern>
+      <template>
+         enchanté <set name = "username"> <star/> ! </set>
+      </template>  
+   </category> 
+
+   <category>
+      <pattern>Je m'appelle *</pattern>
+      <template>
+         enchanté <set name = "username"> <star/> ! </set>
+      </template>  
+   </category>   
+
+   <category>
+      <pattern>Je m appelle *</pattern>
+      <template>
+         enchanté <set name = "username"> <star/> ! </set>
+      </template>  
+   </category> 
+
+<category>
+      <pattern>MON NOM EST *</pattern>
+      <template>
+         enchanté <set name = "username"> <star/> ! </set>
+      </template>  
+   </category> 
+
+<category>
+      <pattern>MON NOM C EST *</pattern>
+      <template>
+         enchanté <set name = "username"> <star/> ! </set>
+      </template>  
+   </category>
+
+<category>
+      <pattern>MON PRENOM EST *</pattern>
+      <template>
+         enchanté <set name = "username"> <star/> ! </set>
+      </template>  
+   </category> 
+
+   <category>
+      <pattern>MON PRENOM C EST *</pattern>
+      <template>
+         enchanté <set name = "username"> <star/> ! </set>
+      </template>  
+   </category> 
+
+
+   <category>
+    <pattern>BONNE NUIT</pattern>
+    <template>
+      <random>  
+        <li>Dormez bien <get name="username"/>. </li>  
+        <li>Bonne nuit <get name="username"/>. </li>  
+        <li>Faites de beau rêves <get name="username"/>! </li>
+        <li>A bientôt <get name="username"/></li>
+        <li>A plus tard <get name="username"/>. </li>
+        <li>Merci d'avoir discuté <get name="username"/>. </li>
+      </random>
+    </template>
+  </category>
+
+<category>
+  <pattern>Bye</pattern>
+    <template>
+      <srai>BONNE NUIT</srai>
+    </template>
+</category>
+
+
+<category>
+  <pattern>CIAO</pattern>
+    <template>
+      <srai>BONNE NUIT</srai>
+    </template>
+</category>
+
+
+
+<category>
+  <pattern>AU REVOIR</pattern>
+    <template>
+      <srai>BONNE NUIT</srai>
+    </template>
+</category>
+
+
+<category>
+  <pattern>A PLUS</pattern>
+    <template>
+      <srai>BONNE NUIT</srai>
+    </template>
+</category>
+
+
+<category>
+  <pattern>A BIENTOT</pattern>
+    <template>
+      <srai>BONNE NUIT</srai>
+    </template>
+</category>
+
+<category>
+  <pattern>A LA PROCHAINE</pattern>
+    <template>
+      <srai>BONNE NUIT</srai>
+    </template>
+</category>
+
+   
+<category>
+	<pattern>Enchante</pattern>
+	<template>
+		<random>
+		<li>Paraillement :)</li>
+		<li>Moi aussi</li>
+		<li>Merci, moi aussi</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>* Plaisir *</pattern>
+		<template>
+			<srai>Enchanté</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>Non</pattern>
+		<template>
+			<random>
+			<li>Okey, je peux vous aider que pour voyager</li>
+			<li>Ah ok</li>
+			<li>Bon, dommage</li>
+			</random>
+		</template>
+</category>
+
+
+
+<category>
+	<pattern>Non *</pattern>
+		<template>
+			<srai>Non</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>Habitation</pattern>
+		<template>J'habite en France à Paris mais je ne précise pas mon adresse :) Avez vous des questions concernant les voyages?</template>
+</category>
+
+<category>
+	<pattern>Vous habitez *</pattern>
+		<template>
+			<srai>Habitation</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>Ou vous habitez *</pattern>
+		<template>
+			<srai>Habitation</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>* vous habitez</pattern>
+		<template>
+			<srai>Habitation</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>pourquoi</pattern>
+		<template>Parce que je ne veux pas. Avez vous des questions concernant les voyages?</template>
+</category>
+
+<category>
+	<pattern>pourquoi *</pattern>
+		<template>
+			<srai>pourquoi</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>ou est ce que vous habitez</pattern>
+		<template>
+			<srai>Habitation</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>Vous habitez *</pattern>
+		<template>
+			<srai>Habitation</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>Je ne veux pas</pattern>
+		<template>
+			<random>
+			<li>Ah ok je comprends</li>
+			<li>Bon, dommage</li>
+			</random>
+		</template>
+</category>
+
+<category>
+	<pattern>Je ne * pas</pattern>
+		<template>
+			<srai>Je ne veux pas</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>Je n * pas *</pattern>
+		<template>
+			<srai>Je ne veux pas</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>Je * pas *</pattern>
+		<template>
+			<srai>Je ne veux pas</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>Je * pas</pattern>
+		<template>
+			<srai>Je ne veux pas</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>J * pas</pattern>
+		<template>
+			<srai>Je ne veux pas</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>J * pas *</pattern>
+		<template>
+			<srai>Je ne veux pas</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>Si</pattern>
+		<template>Génial alors !</template>
+</category>
+
+<category>
+	<pattern>Et vous</pattern>
+		<template>Eh, qu'est-ce que vous voulez dire? et moi quoi?</template>
+</category>
+
+
+<category>
+       <pattern> quel age avez-vous </pattern>
+       <template> 1 moi et vous </template>
+     </category>
+
+
+
+<!-- quand l'human sort du sujet :D -->
+	<category>
+    	<pattern> * </pattern>
+    		<template><srai>voyager</srai></template>
+	</category>
+
+</aiml>

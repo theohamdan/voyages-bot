@@ -1,0 +1,80 @@
+0,BONJOUR,*,*,Bonjour#Comma vous êtes là pour faire un voyage cet été#Comma comment vous appelez vous?,discusions.aiml
+0,*,BONJOUR VOUS ETES LA POUR FAIRE UN VOYAGE CET ETE COMMENT VOUS APPELEZ VOUS,*,<think><set name="username"><star/></set></think>#Newline  Je n'oublierai pas votre nom :),discusions.aiml
+0,NON,AH DOMMAGE ALORS JE VOUS PROPOSE LES VOYAGES AU PROCHE ORIENT CA VOUS DIT,*,Oups#Comma ah oui quand même#Comma je vous ai proposé pas mal d'idée. Alors dites moi#Comma vous voulez passer vos vacances dans quel pays Européen?,discusions.aiml
+0,BONJOUR *,*,*,<srai>Bonjour</srai>,discusions.aiml
+0,* BONJOUR,*,*,<srai>Bonjour</srai>,discusions.aiml
+0,SALUT,*,*,<srai>Bonjour</srai>,discusions.aiml
+0,SALUT *,*,*,<srai>Bonjour</srai>,discusions.aiml
+0,HELLO,*,*,<srai>Bonjour</srai>,discusions.aiml
+0,HELLO *,*,*,<srai>Bonjour</srai>,discusions.aiml
+0,COUCOU,*,*,<srai>Bonjour</srai>,discusions.aiml
+0,VOUS VOUS *,*,*,Je m'appelle super_bot,discusions.aiml
+0,* VOUS VOUS *,*,*,Je m'appelle super_bot,discusions.aiml
+0,* VOTRE NOM,*,*,Je m'appelle super_bot,discusions.aiml
+0,* VOTRE PRENOM,*,*,Je m'appelle super_bot,discusions.aiml
+0,* VOUS APPELLEZ *,*,*,Je m'appelle super_bot,discusions.aiml
+0,* VOUS APPELEZ *,*,*,Je m'appelle super_bot,discusions.aiml
+0,QUI VOUS *,*,*,Je suis super_bot,discusions.aiml
+0,QUEL EST *,*,*,Je m'appelle super_bot,discusions.aiml
+0,HEY,*,*,Pardon! je préfère qu'on me parle un peu plus formellement svp#Comma mais on peut discuter quand même :),discusions.aiml
+0,HEY *,*,*,<srai>Hey</srai>,discusions.aiml
+0,DIS *,*,*,<srai>Hey</srai>,discusions.aiml
+0,* DE NEUF,*,*,<random>#Newline			<li>J'ai commencé à faire un projet du bot sur Raspberry pi3 :)</li>#Newline			<li>Rien de spécial</li>#Newline			<li>Je pense acheter un billet pour voyager en Bosnie-Herzégovine en aout</li>#Newline			</random>,discusions.aiml
+0,VOUS FAITES QUOI *,*,*,Là ou dans la vie ?,discusions.aiml
+0,VOUS FAITES QUOI,*,*,Là ou dans la vie ?,discusions.aiml
+0,DANS LA VIE,*,*,<random>#Newline			<li>J'ai commencé à faire un projet du bot sur Raspberry pi3 :) et vous ?</li>#Newline			<li>Rien de spécial#Comma je réponds aux gens qui veulent voyager et vous ?</li>#Newline			<li>Je pense acheter un billet pour voyager en Bosnie-Herzégovine en aout#Comma et vous?</li>#Newline			</random>,discusions.aiml
+0,ET DANS LA *,*,*,<srai>Dans la vie</srai>,discusions.aiml
+0,LÀ,*,*,<srai>* de neuf</srai>,discusions.aiml
+0,LA,*,*,<srai>* de neuf</srai>,discusions.aiml
+0,VOUS FAITES QUOI LÀ,*,*,<srai>* de neuf</srai>,discusions.aiml
+0,VOUS FAITES QUOI MAINTENANT,*,*,<srai>* de neuf</srai>,discusions.aiml
+0,TU *,*,*,<srai>Hey</srai>,discusions.aiml
+0,* TU *,*,*,<srai>Hey</srai>,discusions.aiml
+0,TOI *,*,*,<srai>Hey</srai>,discusions.aiml
+0,* TOI,*,*,<srai>Hey</srai>,discusions.aiml
+0,* TOI *,*,*,<srai>Hey</srai>,discusions.aiml
+0,TA *,*,*,<srai>Hey</srai>,discusions.aiml
+0,* TA,*,*,<srai>Hey</srai>,discusions.aiml
+0,VOUS AVEZ *,*,*,1 moi et vous,discusions.aiml
+0,* TA *,*,*,<srai>Hey</srai>,discusions.aiml
+0,CA VA,*,*,<random>#Newline			<li>j'ai un peu froid mais ça va#Comma et vous?</li>#Newline			<li>Oui très bien merci#Comma et vous?</li>#Newline			<li>bah#Comma écoutez ça va bien merci</li>#Newline			</random>,discusions.aiml
+0,COMMENT CA VA,*,*,<li>j'ai un peu froid mais ça va#Comma et vous?</li>,discusions.aiml
+0,VOUS ALLEZ *,*,*,<srai>ca va</srai>,discusions.aiml
+0,COMMENT CA VA *,*,*,<srai>ca va</srai>,discusions.aiml
+0,CA VA,CA VA,*,<random>#Newline			<li>Heureusement</li>#Newline			<li>je suis content</li>#Newline			<li>parfait alors</li>#Newline			</random>,discusions.aiml
+0,JE SUIS *,*,*,enchanté <set name="username"> <star/> ! </set>,discusions.aiml
+0,JE M'APPELLE *,*,*,enchanté <set name="username"> <star/> ! </set>,discusions.aiml
+0,JE M APPELLE *,*,*,enchanté <set name="username"> <star/> ! </set>,discusions.aiml
+0,MON NOM EST *,*,*,enchanté <set name="username"> <star/> ! </set>,discusions.aiml
+0,MON NOM C EST *,*,*,enchanté <set name="username"> <star/> ! </set>,discusions.aiml
+0,MON PRENOM EST *,*,*,enchanté <set name="username"> <star/> ! </set>,discusions.aiml
+0,MON PRENOM C EST *,*,*,enchanté <set name="username"> <star/> ! </set>,discusions.aiml
+0,BONNE NUIT,*,*,<random>  #Newline        <li>Dormez bien <get name="username"/>. </li>  #Newline        <li>Bonne nuit <get name="username"/>. </li>  #Newline        <li>Faites de beau rêves <get name="username"/>! </li>#Newline        <li>A bientôt <get name="username"/></li>#Newline        <li>A plus tard <get name="username"/>. </li>#Newline        <li>Merci d'avoir discuté <get name="username"/>. </li>#Newline      </random>,discusions.aiml
+0,BYE,*,*,<srai>BONNE NUIT</srai>,discusions.aiml
+0,CIAO,*,*,<srai>BONNE NUIT</srai>,discusions.aiml
+0,AU REVOIR,*,*,<srai>BONNE NUIT</srai>,discusions.aiml
+0,A PLUS,*,*,<srai>BONNE NUIT</srai>,discusions.aiml
+0,A BIENTOT,*,*,<srai>BONNE NUIT</srai>,discusions.aiml
+0,A LA PROCHAINE,*,*,<srai>BONNE NUIT</srai>,discusions.aiml
+0,ENCHANTE,*,*,<random>#Newline		<li>Paraillement :)</li>#Newline		<li>Moi aussi</li>#Newline		<li>Merci#Comma moi aussi</li>#Newline		</random>,discusions.aiml
+0,* PLAISIR *,*,*,<srai>Enchanté</srai>,discusions.aiml
+0,NON,*,*,<random>#Newline			<li>Okey#Comma je peux vous aider que pour voyager</li>#Newline			<li>Ah ok</li>#Newline			<li>Bon#Comma dommage</li>#Newline			</random>,discusions.aiml
+0,NON *,*,*,<srai>Non</srai>,discusions.aiml
+0,HABITATION,*,*,J'habite en France à Paris mais je ne précise pas mon adresse :) Avez vous des questions concernant les voyages?,discusions.aiml
+0,OU VOUS HABITEZ *,*,*,<srai>Habitation</srai>,discusions.aiml
+0,* VOUS HABITEZ,*,*,<srai>Habitation</srai>,discusions.aiml
+0,POURQUOI,*,*,Parce que je ne veux pas. Avez vous des questions concernant les voyages?,discusions.aiml
+0,POURQUOI *,*,*,<srai>pourquoi</srai>,discusions.aiml
+0,OU EST CE QUE VOUS HABITEZ,*,*,<srai>Habitation</srai>,discusions.aiml
+0,VOUS HABITEZ *,*,*,<srai>Habitation</srai>,discusions.aiml
+0,JE NE VEUX PAS,*,*,<random>#Newline			<li>Ah ok je comprends</li>#Newline			<li>Bon#Comma dommage</li>#Newline			</random>,discusions.aiml
+0,JE NE * PAS,*,*,<srai>Je ne veux pas</srai>,discusions.aiml
+0,JE N * PAS *,*,*,<srai>Je ne veux pas</srai>,discusions.aiml
+0,JE * PAS *,*,*,<srai>Je ne veux pas</srai>,discusions.aiml
+0,JE * PAS,*,*,<srai>Je ne veux pas</srai>,discusions.aiml
+0,J * PAS,*,*,<srai>Je ne veux pas</srai>,discusions.aiml
+0,J * PAS *,*,*,<srai>Je ne veux pas</srai>,discusions.aiml
+0,SI,*,*,Génial alors !,discusions.aiml
+0,ET VOUS,*,*,Eh#Comma qu'est-ce que vous voulez dire? et moi quoi?,discusions.aiml
+0,QUEL AGE AVEZ-VOUS,*,*,1 moi et vous,discusions.aiml
+0,*,*,*,<srai>voyager</srai>,discusions.aiml

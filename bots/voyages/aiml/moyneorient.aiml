@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+
+<!-- Jordanie -->
+<category>
+      <pattern>Jordanie</pattern>
+      <template>Envie de changer d’air, plutôt qu’une énième visite au Louvre, pourquoi pas Pétra ? Toute la richesse du département des Antiquités Orientales, sur site. Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+
+   <category>
+      <pattern>* Jordanie</pattern>
+      <template><srai>Jordanie</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Amman</pattern>
+      <template><srai>Jordanie</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>envie de changer d air plutot qu une enieme visite au louvre pourquoi pas petra toute la richesse du departement des antiquites orientales sur site souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 2000€ à 2600€/personne,</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>envie de changer d air plutot qu une enieme visite au louvre pourquoi pas petra toute la richesse du departement des antiquites orientales sur site souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Jordanie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en jordanie</that>
+             <template>Nous irons le 22 juin pour 4 jours</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en jordanie</that>
+             <template>Donc l'heure de départ pour le voyage en Jordanie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en jordanie</that>
+             <template>Pour les voyages hors l'Europe, nous vous dirons l'heure du départ une semaine avant votre voyage.</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en jordanie</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+
+
+        <!-- Liban -->
+<category>
+      <pattern>Liban</pattern>
+      <template>Que la diversité soit à la fois une malédiction et une bénédiction, voilà peut-être le paradoxe libanais. Le pays ne peut en tout cas s’endormir sur ses blocages et va pour cela toujours de l’avant. Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+
+   <category>
+      <pattern>* Liban</pattern>
+      <template><srai>Liban</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Beyrouth</pattern>
+      <template><srai>Liban</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>que la diversite soit a la fois une malediction et une benediction voila peut etre le paradoxe libanais le pays ne peut en tout cas s endormir sur ses blocages et va pour cela toujours de l avant souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 2100€ à 2350€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>que la diversite soit a la fois une malediction et une benediction voila peut etre le paradoxe libanais le pays ne peut en tout cas s endormir sur ses blocages et va pour cela toujours de l avant souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage au Liban?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage au liban</that>
+             <template>Nous allons le 11 septembre.</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage au liban</that>
+             <template>Donc l'heure de départ pour le voyage au Liban?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage au liban</that>
+             <template>Pour les voyages hors l'Europe, nous vous dirons l'heure du départ une semaine avant votre voyage.</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage au liban</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+
+
+<!-- Maroc -->
+
+        <category>
+      <pattern>Maroc</pattern>
+      <template>Dans un luxe discret, la Villa Nomade vous ouvre ses portes pour découvrir la ville de l'intérieur et vous accueille dans un cadre intimiste avec 12 chambres et suites décorées dans la plus pure tradition marocaine, Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+
+   <category>
+      <pattern>* Maroc</pattern>
+      <template><srai>Maroc</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Rabat</pattern>
+      <template><srai>Maroc</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>dans un luxe discret la villa nomade vous ouvre ses portes pour decouvrir la ville de l interieur et vous accueille dans un cadre intimiste avec 12 chambres et suites decorees dans la plus pure tradition marocaine souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 2800€ à 3500€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>dans un luxe discret la villa nomade vous ouvre ses portes pour decouvrir la ville de l interieur et vous accueille dans un cadre intimiste avec 12 chambres et suites decorees dans la plus pure tradition marocaine souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage au Maroc?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage au maroc</that>
+             <template>C'est pour le 1 juin et pour 4 jours.</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage au maroc</that>
+             <template>Donc l'heure de départ pour le voyage au Maroc?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage au maroc</that>
+             <template>Le départ sera a 11h30.</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage au maroc</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+
+<!-- Oman -->
+         <category>
+      <pattern>Oman</pattern>
+      <template>Oman, c’est assez formidable. On y a une mer bleue, mais bleue ! Dans laquelle, par des chemins tortueux et pittoresques viennent se jeter des oueds émeraude. Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+
+   <category>
+      <pattern>* Oman</pattern>
+      <template><srai>Oman</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Mascate</pattern>
+      <template><srai>Oman</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>oman c est assez formidable on y a une mer bleue mais bleue dans laquelle par des chemins tortueux et pittoresques viennent se jeter des oueds emeraude souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 2800€ à 3500€/personne,</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>oman c est assez formidable on y a une mer bleue mais bleue dans laquelle par des chemins tortueux et pittoresques viennent se jeter des oueds emeraude souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Oman?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en oman</that>
+             <template>C'est pour le 1 juin et pour 4 jours.</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en oman</that>
+             <template>Donc l'heure de départ pour le voyage en Oman?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en oman</that>
+             <template>Le départ sera a 05h30.</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en oman</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+
+        <category>
+      <pattern>Palestine</pattern>
+      <template>Inextricable. Les liens culturels, historiques, économiques, politiques entre les communautés installées sur ce bout de terre sont si étroits que la séparation est une chimère. Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+
+   <category>
+      <pattern>* Palestine</pattern>
+      <template><srai>Palestine</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Jerusalem Est</pattern>
+      <template><srai>Palestine</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Jerusalem</pattern>
+      <template><srai>Palestine</srai></template>
+   </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>inextricable les liens culturels historiques economiques politiques entre les communautes installees sur ce bout de terre sont si etroits que la separation est une chimere souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 2400€ à 3000€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>inextricable les liens culturels historiques economiques politiques entre les communautes installees sur ce bout de terre sont si etroits que la separation est une chimere souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Palestine?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en palestine</that>
+             <template>C'est pour le 04 aout et pour 5 jours.</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en palestine</that>
+             <template>Donc l'heure de départ pour le voyage en Palestine?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en palestine</that>
+             <template>Le départ sera a 12h30.</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en palestine</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+</aiml>

@@ -1,0 +1,246 @@
+abricot
+absinthe
+acajou
+acier
+aigue-marine
+albâtre
+amande
+amarante
+ambre
+améthyste
+anthracite
+aquilain
+ardoise
+argent
+argile
+aubergine
+auburn
+avocat
+azur
+azurin
+baillet
+banane
+beige
+beigeasse
+beigeâtre
+beurre
+bis
+bistre
+blanc
+blanc cassé
+blanc gris
+blé
+bleu aldégo
+bleu cæruleum
+bleu canard
+bleu céleste
+bleu cerise
+bleu charrette
+bleu charron
+bleu ciel
+bleu de France
+bleu de Prusse
+bleu France
+bleu marine
+bleu pétrole
+bleu roi
+blond
+blond ardent
+blond cendré
+blond d’or
+blond de filasse
+blond doré
+blond filasse
+bordeaux
+bourgogne
+bouteille
+brique
+bronze
+brun
+caca d’oie
+café au lait
+canard
+canari
+capucine
+caramel
+cardinal
+carmin
+carnation
+carotte
+cassis
+cassonade
+céladon
+cerise
+céruléen
+chamois
+champagne
+charron
+châtaigne
+châtain
+chocolat
+ciel
+cinabre
+citrin
+citron
+citrouille
+cobalt
+colombin
+coquelicot
+corail
+corbeau
+couleur
+couleur primaire
+cramoisi
+cuisse de nymphe
+cuivre
+cyan
+eau
+ébène
+écarlate
+écrevisse
+écru
+électrique
+émeraude
+empire
+étain
+évêque
+fauve
+feldgrau
+feu
+feuille morte
+fraise
+framboise
+fuchsia
+garance
+gazon
+givré
+glauque
+grège
+grenadine
+grenat
+gris
+gris souris
+groseille
+guède
+herbe
+incane
+incarnadin
+incarnat
+indigo
+ivoire
+jade
+jais
+jaune
+jaune indien
+jaune moutarde
+klein
+lapis lazuli
+lavallière
+lavande
+lichen
+lie de vin
+lilas
+lime
+magenta
+maïs
+mandarine
+marron
+marronasse
+mastic
+mauve
+mélèze
+melon
+menthe
+miel
+mimosa
+mordoré
+moutarde
+nacarat
+nankin
+noir
+noir animal
+noir d’encre
+noir de jais
+noisette
+nuit
+ocre
+olive
+opaline
+opéra
+or
+orange
+orpiment
+paille
+parme
+pastel
+pêche
+perle
+pétrole
+pistache
+pivoine
+platine
+poireau
+pomme
+ponceau
+poussin
+prairie
+prasin
+prune
+puce
+queue de renard
+queue de vache
+réglisse
+roi
+rosange
+rose
+rosé
+rose cerise
+rouge
+rouge cerise
+rouge coquelicot
+rouge des Indes
+rouge grenat
+rouge sang
+rouille
+rouquin
+roux
+rubis
+sable
+safran
+safre
+sang
+sang de bœuf
+sapin
+sarcelle
+sauge
+saumon
+sépia
+smaragdin
+soufre
+tabac
+tango
+taupe
+tête de maure
+thé
+tilleul
+tomate
+tomette
+topaze
+tourterelle
+turc
+turquin
+turquoise
+vairon
+vanille
+vénitien
+ventre de biche
+vermeil
+vermillon
+vert
+vert de cobalt
+vert de gris
+vert empire
+vert jaune
+violet
+violine
+zinzolin

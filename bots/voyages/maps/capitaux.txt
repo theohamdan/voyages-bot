@@ -1,0 +1,206 @@
+Afrique du Sud:Pretoria
+Algérie:Alger
+Angola:Luanda
+Bénin:Porto-Novo
+Botswana:Gaborone
+Burkina Faso:Ouagadougou
+Burundi:Bujumbura
+Cameroun:Yaoundé
+Cap-Vert:Praia
+Comores:Moroni
+Congo:Brazzaville
+Côte d'Ivoire:Yamoussoukro
+Djibouti:Djibouti
+Egypte:Le Caire
+Erythrée:Asmara
+Ethiopie:Addis-Abeba
+Gabon:Libreville
+Gambie:Banjul
+Ghana:Accra
+Guinée:Conakry
+Guinée équatoriale:Malabo
+Guinée-Bissau:Bissau
+Île Maurice:Port Louis
+Kenya:Nairobi
+Lesotho:Maseru
+Liberia:Monrovia
+Libye:Tripoli
+Madagascar:Antananarivo
+Malawi:Lilongwe
+Mali:Bamako
+Maroc:Rabat
+Mauritanie:Nouakchott
+Mozambique:Maputo
+Namibie:Windhoek
+Niger:Niamey
+Nigeria:Abuja
+Ouganda:Kampala
+République Centrafricaine:Bangui
+République Démocratique du Congo:Kinshasa
+Rwanda:Kigali
+São Tomé et Príncipe:São Tomé
+Sénégal:Dakar
+Seychelles:Victoria
+Sierra Leone:Freetown
+Somalie:Mogadiscio
+Soudan:Khartoum
+Soudan du Sud:Djouba
+Swaziland:Mbabane
+Tanzanie:Dodoma
+Tchad:N'Djamena
+Togo:Lomé
+Tunisie:Tunis
+Zambie:Lusaka
+Zimbabwe:Harare
+Antigua-et-Barbuda:Saint John's
+Argentine:Buenos Aires
+Bahamas:Nassau
+Barbade:Bridgetown
+Belize:Belmopan
+Bolivie:Sucre
+Brésil:Brasilia
+Canada:Ottawa
+Chili:Santiago
+Colombie:Bogota
+Costa Rica:San José
+Cuba:La Havane
+Dominique:Roseau
+Equateur:Quito
+Etats-Unis:Washington
+Grenade:Saint George's
+Guatemala:Guatemala
+Guyana:Georgetown
+Haïti:Port-au-Prince
+Honduras:Tegucigalpa
+Jamaïque:Kingston
+Mexique:Mexico
+Nicaragua:Managua
+Panama:Panama
+Paraguay:Asunción
+Pérou:Lima
+République Dominicaine:Saint-Domingue
+Saint-Kitts-et-Nevis:Basseterre
+Saint-Vincent-et-les-Grenadines:Kingstown
+Sainte-Lucie:Castries
+Salvador:San Salvador
+Suriname:Paramaribo
+Trinité-et-Tobago:Port of Spain
+Uruguay:Montevideo
+Venezuela:Caracas
+Afghanistan:Kaboul
+Arabie Saoudite:Riyad
+Arménie:Erevan
+Azerbaïdjan:Bakou
+Bahreïn:Manama
+Bangladesh:Dacca
+Bhoutan:Thimbu
+Birmanie:Naypyidaw
+Brunei:Bandar Seri Begawan
+Cambodge:Phnom Penh
+Chine:Pékin
+Corée du Nord:Pyongyang
+Corée du Sud:Séoul
+Emirats Arabes Unis:Abu Dhabi
+Géorgie:Tbilissi
+Inde:New Delhi
+Indonésie:Jakarta
+Irak:Bagdad
+Iran:Téhéran
+Israël:Jérusalem
+Japon:Tokyo
+Jordanie:Amman
+Kazakhstan:Astana
+Kirghizistan:Bichkek
+Koweït:Koweït
+Laos:Vientiane
+Liban:Beyrouth
+Malaisie:Kuala Lumpur
+Maldives:Malé
+Mongolie:Oulan-Bator
+Népal:Katmandou
+Oman:Mascate
+Ouzbékistan:Tachkent
+Pakistan:Islamabad
+Palestine:Jérusalem-Est
+Philippines:Manille
+Qatar:Doha
+Singapour:Singapour
+Sri Lanka:Sri Jayawardenapura
+Syrie:Damas
+Tadjikistan:Douchanbe
+Taïwan:Taipei
+Thaïlande:Bangkok
+Turkménistan:Achgabat
+Turquie:Ankara
+Viêt Nam:Hanoi
+Yémen:Sanaa
+Balkans:Belgrade
+Albanie:Tirana
+Allemagne:Berlin
+Andorre:Andorre-la-Vieille
+Autriche:Vienne
+Belgique:Bruxelles
+Biélorussie:Minsk
+Bosnie-Herzégovine:Sarajevo
+Bosnie:Sarajevo 
+Bulgarie:Sofia
+Chypre:Nicosie
+Croatie:Zagreb
+Danemark:Copenhague
+Espagne:Madrid
+Estonie:Tallinn
+Finlande:Helsinki
+France:Paris
+Grèce:Athènes
+Hongrie:Budapest
+Irlande:Dublin
+Islande:Reykjavik
+Italie:Rome
+Kosovo:Pristina
+Lettonie:Riga
+Liechtenstein:Vaduz
+Lituanie:Vilnius
+Luxembourg:Luxembourg
+Macédoine:Skopje
+Malte:La Valette
+Moldavie:Chisinau
+Monaco:Monaco
+Monténégro:Podgorica
+Norvège:Oslo
+Pays-Bas:Amsterdam
+Pologne:Varsovie
+Portugal:Lisbonne
+République Tchèque:Prague
+Roumanie:Bucarest
+Royaume-Uni:Londres
+Russie:Moscou
+Saint-Marin:Saint-Marin
+Serbie:Belgrade
+Slovaquie:Bratislava
+Slovénie:Ljubljana
+Suède:Stockholm
+Suisse:Berne
+Ukraine:Kiev
+Vatican:Vatican
+Australie:Canberra
+Fidji:Suva
+Kiribati:Tarawa
+Marshall:Majuro
+Micronésie:Palikir
+Nauru:Yaren
+Nouvelle-Zélande:Wellington
+Palaos:Melekeok
+Papouasie-Nouvelle-Guinée:Port Moresby
+Salomon:Honiara
+Samoa:Apia
+Timor-Oriental:Dili
+Tonga:Nukualofa
+Tuvalu:Fanafuti
+Vanuatu:Port-Vila
+Suede:Stockholm
+Ecosse:Edimbourg
+Slovenie:Ljubljana
+Norvege:Oslo
+Montenegro:Podgorica
+Macedoine:Skopje
+Laponie:Rovaniemi

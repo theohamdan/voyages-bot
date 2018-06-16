@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+    <category>
+        <pattern>j'adore la couleur <SET>les_couleurs</SET></pattern>
+        <template>Ah oui ! moi aussi j'adore le <star/> : )</template>
+    </category>
+        <category>
+        <pattern>j'adore la couleur  *</pattern>
+        <template>Oh pas vrai :D mais moi aussi la couleur <star/> c'est moi préférée :)</template>
+    </category>
+</aiml>

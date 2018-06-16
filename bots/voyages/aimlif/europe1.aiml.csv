@@ -1,0 +1,63 @@
+0,LES ILES GRECQUE,*,*,Un super bon choix#Comma cette année nous irons au Santorin#Comma lorsque le calme revint#Comma Santorin#Comma auparavant presque ronde#Comma ne formait plus qu un croissant de lune#Comma enserrant une caldeira ennoyée de 83 km#Comma une des plus vastes au monde. Voulez vous savoir le prix?,europe1.aiml
+0,* LES ILES GRECQUE,*,*,<srai>Les iles Grecque</srai>,europe1.aiml
+0,ILE *,*,*,<srai>Les iles Grecque</srai>,europe1.aiml
+0,GRECE,*,*,<srai>Les iles Grecque</srai>,europe1.aiml
+0,* GRECE,*,*,<srai>Les iles Grecque</srai>,europe1.aiml
+0,OUI,UN SUPER BON CHOIX CETTE ANNEE NOUS IRONS AU SANTORIN LORSQUE LE CALME REVINT SANTORIN AUPARAVANT PRESQUE RONDE NE FORMAIT PLUS QU UN CROISSANT DE LUNE ENSERRANT UNE CALDEIRA ENNOYEE DE 83 KM UNE DES PLUS VASTES AU MONDE VOULEZ VOUS SAVOIR LE PRIX,*,Pour ce voyage le prix sera de 1800 à 2000 Euros par personne,europe1.aiml
+0,NON,UN SUPER BON CHOIX CETTE ANNEE NOUS IRONS AU SANTORIN LORSQUE LE CALME REVINT SANTORIN AUPARAVANT PRESQUE RONDE NE FORMAIT PLUS QU UN CROISSANT DE LUNE ENSERRANT UNE CALDEIRA ENNOYEE DE 83 KM UNE DES PLUS VASTES AU MONDE VOULEZ VOUS SAVOIR LE PRIX,*,Alors la date de départ pour le voyage en Grece?,europe1.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN GRECE,*,Notre séjour sera pendant 11 jours en vol direct#Comma à partir de 15 aout ;),europe1.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN GRECE,*,Donc l'heure de départ pour le voyage en Grece?,europe1.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN GRECE,*,Le départ sera à 11h15,europe1.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN GRECE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe1.aiml
+0,PORTUGAL,*,*,Un bon choix#Comma cette année notre voyage au Portugal sera en aout#Comma son art de vivre un peu bohème#Comma sa nonchalance arty#Comma ses vieux tramways sautillants confèrent à la capitale portugaise ce charme si particulier souhaitez vous savoir le prix de ce voyage?,europe1.aiml
+0,* PORTUGAL,*,*,<srai>Portugal</srai>,europe1.aiml
+0,* LISBONNE,*,*,<srai>Portugal</srai>,europe1.aiml
+0,OUI,UN BON CHOIX CETTE ANNEE NOTRE VOYAGE AU PORTUGAL SERA EN AOUT SON ART DE VIVRE UN PEU BOHEME SA NONCHALANCE ARTY SES VIEUX TRAMWAYS SAUTILLANTS CONFERENT A LA CAPITALE PORTUGAISE CE CHARME SI PARTICULIER SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,C'est de 1000 à 1300€ par personne,europe1.aiml
+0,NON,UN BON CHOIX CETTE ANNEE NOTRE VOYAGE AU PORTUGAL SERA EN AOUT SON ART DE VIVRE UN PEU BOHEME SA NONCHALANCE ARTY SES VIEUX TRAMWAYS SAUTILLANTS CONFERENT A LA CAPITALE PORTUGAISE CE CHARME SI PARTICULIER SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage au Portugal?,europe1.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE AU PORTUGAL,*,le départ sera le 13 aout à 08h30,europe1.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE AU PORTUGAL,*,Donc l'heure de départ pour le voyage au Portugal?,europe1.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE AU PORTUGAL,*,à 08h30 :),europe1.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE AU PORTUGAL,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe1.aiml
+0,ESPAGNE,*,*,Un très bon choix#Comma cette année notre voyage en Espagne sera juste amazing#Comma Donc vous voulez savoir le prix de ce voyage?,europe1.aiml
+0,* ESPAGNE,*,*,<srai>ESPAGNE</srai>,europe1.aiml
+0,* MADRID,*,*,<srai>ESPAGNE</srai>,europe1.aiml
+0,OUI,UN TRES BON CHOIX CETTE ANNEE NOTRE VOYAGE EN ESPAGNE SERA JUSTE AMAZING DONC VOUS VOULEZ SAVOIR LE PRIX DE CE VOYAGE,*,de 800 à 1200 Euros par personne,europe1.aiml
+0,NON,UN TRES BON CHOIX CETTE ANNEE NOTRE VOYAGE EN ESPAGNE SERA JUSTE AMAZING DONC VOUS VOULEZ SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Espagne?,europe1.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN ESPAGNE,*,Nous allons partir le 23 juillet avec le charme des ruelles de Séville puis les plaisirs de la côte#Comma une semaine tous ensemble à rythme tranquille 8 jours,europe1.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN ESPAGNE,*,Donc l'heure de départ pour le voyage en Espagne?,europe1.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN ESPAGNE,*,Le départ sera à 09h00,europe1.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN ESPAGNE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe1.aiml
+0,ITALIE,*,*,Naples#Comma la ville qui fait de vétusté vertu et porte fièrement les valeurs de son aristocratie#Comma la ville aussi dont les marchés sont les plus éruptifs d Italie. Sorrente#Comma qui se plait au miroir de la mer et met les citrons en bouteille#Comma souhaitez vous savoir le prix de ce voyage?,europe1.aiml
+0,* ITALIE,*,*,<srai>Italie</srai>,europe1.aiml
+0,* ROME,*,*,<srai>Italie</srai>,europe1.aiml
+0,OUI,NAPLES LA VILLE QUI FAIT DE VETUSTE VERTU ET PORTE FIEREMENT LES VALEURS DE SON ARISTOCRATIE LA VILLE AUSSI DONT LES MARCHES SONT LES PLUS ERUPTIFS D ITALIE SORRENTE QUI SE PLAIT AU MIROIR DE LA MER ET MET LES CITRONS EN BOUTEILLE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 1800€ à 2400€/personne.,europe1.aiml
+0,NON,NAPLES LA VILLE QUI FAIT DE VETUSTE VERTU ET PORTE FIEREMENT LES VALEURS DE SON ARISTOCRATIE LA VILLE AUSSI DONT LES MARCHES SONT LES PLUS ERUPTIFS D ITALIE SORRENTE QUI SE PLAIT AU MIROIR DE LA MER ET MET LES CITRONS EN BOUTEILLE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Italie?,europe1.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN ITALIE,*,Nous allons partir le 11 juin pour 5 jours,europe1.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN ITALIE,*,Donc l'heure de départ pour le voyage en Italie?,europe1.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN ITALIE,*,Le départ sera à 13h10,europe1.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN ITALIE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe1.aiml
+0,PRAGUE,*,*,Un bon choix#Comma cette année notre voyage à prague sera en aout#Comma prague#Comma la capitale magique de l’Europe#Comma comme l'écrivait André Breton#Comma a cette capacité de transporter celui qui la découvre au sommet d’une exaltation romantique. Souhaitez vous savoir le prix de ce voyage?,europe1.aiml
+0,* PRAGUE,*,*,<srai>Prague</srai>,europe1.aiml
+0,* REPUBLIQU TCHEQUE,*,*,<srai>Prague</srai>,europe1.aiml
+0,REPUBLIQU TCHEQUE,*,*,<srai>Prague</srai>,europe1.aiml
+0,REPUBLIQU*,*,*,<srai>Prague</srai>,europe1.aiml
+0,REPUBLIQU,*,*,<srai>Prague</srai>,europe1.aiml
+0,OUI,UN BON CHOIX CETTE ANNEE NOTRE VOYAGE A PRAGUE SERA EN AOUT PRAGUE LA CAPITALE MAGIQUE DE L EUROPE COMME L ECRIVAIT ANDRE BRETON A CETTE CAPACITE DE TRANSPORTER CELUI QUI LA DECOUVRE AU SOMMET D UNE EXALTATION ROMANTIQUE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,C'est de 1000 à 1300€ par personne,europe1.aiml
+0,NON,UN BON CHOIX CETTE ANNEE NOTRE VOYAGE A PRAGUE SERA EN AOUT PRAGUE LA CAPITALE MAGIQUE DE L EUROPE COMME L ECRIVAIT ANDRE BRETON A CETTE CAPACITE DE TRANSPORTER CELUI QUI LA DECOUVRE AU SOMMET D UNE EXALTATION ROMANTIQUE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage à Prague?,europe1.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE A PRAGUE,*,le départ sera le 13 aout à 08h30,europe1.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE A PRAGUE,*,Donc l'heure de départ pour le voyage à Prague?,europe1.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE A PRAGUE,*,à 08h30 :),europe1.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE A PRAGUE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe1.aiml
+0,TURQUIE,*,*,Un très bon choix#Comma cette année notre voyage sera à Bodrum et ça serait en septembre#Comma cette belle ville fut fondée par les Grecs sous le nom d’Halicarnasse#Comma elle comprend deux baies jumelles avec vue sur le château Saint-Pierre. Souhaitez vous savoir le prix de ce voyage?,europe1.aiml
+0,* TURQUIE,*,*,<srai>Turquie</srai>,europe1.aiml
+0,* ISTANBUL,*,*,<srai>Turquie</srai>,europe1.aiml
+0,OUI,UN TRES BON CHOIX CETTE ANNEE NOTRE VOYAGE SERA A BODRUM ET CA SERAIT EN SEPTEMBRE CETTE BELLE VILLE FUT FONDEE PAR LES GRECS SOUS LE NOM D HALICARNASSE ELLE COMPREND DEUX BAIES JUMELLES AVEC VUE SUR LE CHATEAU SAINT PIERRE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le prix du voyage sera de 1100 à 1400 Euros par personne pour 11 jours,europe1.aiml
+0,NON,UN TRES BON CHOIX CETTE ANNEE NOTRE VOYAGE SERA A BODRUM ET CA SERAIT EN SEPTEMBRE CETTE BELLE VILLE FUT FONDEE PAR LES GRECS SOUS LE NOM D HALICARNASSE ELLE COMPREND DEUX BAIES JUMELLES AVEC VUE SUR LE CHATEAU SAINT PIERRE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Turquie?,europe1.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN TURQUIE,*,Nous proposons que le départ soit le 02 septembre à 17h00,europe1.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN TURQUIE,*,Donc l'heure de départ pour le voyage en Turquie?,europe1.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN TURQUIE,*,ver 17h00 :),europe1.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN TURQUIE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe1.aiml
+0,OUI,OK EST CE QUE VOUS VOULEZ SAVOIR COMMENT CONFIRMER LA RESERVATION DE CE VOYAGE,*,Je vous demande d'envoyer un mail en mettant votre nom#Comma prénom#Comma date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr,europe1.aiml
+0,NON,OK EST CE QUE VOUS VOULEZ SAVOIR COMMENT CONFIRMER LA RESERVATION DE CE VOYAGE,*,Ben#Comma pour une dernière proposition#Comma voulez vous laisser un message à l'agence?,europe1.aiml
+0,OUI,BEN POUR UNE DERNIERE PROPOSITION VOULEZ VOUS LAISSER UN MESSAGE A L AGENCE,*,Veuillez écrire votre message,europe1.aiml
+0,*,VEUILLEZ ECRIRE VOTRE MESSAGE,*,Merci pour votre confience#Comma nous allons vous répondre dans les meilleurs délais,europe1.aiml

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+    <pattern>voyager</pattern>
+    <template>Voulez vous voyager en Europe ?</template>
+  </category>
+
+
+<category>
+  <pattern>Oui</pattern>
+        <that> Voulez vous voyager en europe</that>
+        <template>C'est pas mal comme idée, je vous conseille pour l'été de 2018 d'aller dans un de ces beaux pays : 
+            - Espagne
+            - Les îles Grecque
+            - Portugal
+            - Prague
+            - Turquie
+            (si le pays qui vous interesse est parmis ces pays, je vous demande seulement de taper le nom du pays svp).
+        </template>
+     </category>
+
+
+     <category>
+             <pattern>Non</pattern>
+             <that>Voulez vous voyager en europe</that>
+             <template>Ok, donc je vous propose nos voyages cette année aux pays d Amériques, cela vous interesse?</template>
+          </category>
+
+      <category>
+             <pattern>Non *</pattern>
+             <that>Voulez vous voyager en europe</that>
+             <template>Ok, donc je vous propose nos voyages cette année aux pays d Amériques, cela vous interesse?</template>
+          </category>
+
+          <category>
+             <pattern>Pas *</pattern>
+             <that>Voulez vous voyager en europe</that>
+             <template>Ok, donc je vous propose nos voyages cette année aux pays d Amériques, cela vous interesse?</template>
+          </category>
+
+
+        <category>
+             <pattern>Oui</pattern>
+             <that>ok donc je vous propose nos voyages cette annee aux pays d ameriques cela vous interesse</that>
+             <template>Ok, donc je propose les pays suivants : Argentine, Belize, Bolivie, Mexique, Canada (si un de ces pays vous interesse, je vous demande seulement de taper le nom du pays svp)</template>
+          </category>
+
+
+          <category>
+             <pattern>Oui *</pattern>
+             <that>ok donc je vous propose nos voyages cette annee aux pays d ameriques cela vous interesse</that>
+             <template>Ok, donc je propose les pays suivants : Argentine, Belize, Bolivie, Mexique, Canada (si un de ces pays vous interesse, je vous demande seulement de taper le nom du pays svp)</template>
+          </category>
+
+
+          <category>
+             <pattern>Non</pattern>
+             <that>Ok donc je vous propose nos voyages cette annee aux pays d ameriques cela vous interesse</that>
+             <template>Ah dommage, alors je vous propose les voyages au Proche Orient, ça vous dit? </template>
+          </category>
+
+
+          <category>
+             <pattern>Non *</pattern>
+             <that>Ok donc je vous propose nos voyages cette annee aux pays d ameriques cela vous interesse</that>
+             <template>Ah dommage, alors je vous propose les voyages au Proche Orient, ça vous dit?</template>
+          </category>
+
+          <category>
+             <pattern>Pas *</pattern>
+             <that>Ok donc je vous propose nos voyages cette annee aux pays d ameriques cela vous interesse</that>
+             <template>Ah dommage, alors je vous propose les voyages au Proche Orient, ça vous dit?</template>
+          </category>
+
+
+          <category>
+             <pattern>Oui</pattern>
+             <that>Ah dommage alors je vous propose les voyages au proche orient ca vous dit</that>
+             <template>Parfait, donc je vous propose nos voyages au proche Orient cet été, on ira donc en Jordanie, Liban, Maroc, Oman ou Palestine (si un de ces pays vous interesse, je vous demande seulement de taper le nom du pays svp) </template>
+          </category>
+
+
+          <category>
+             <pattern>Oui *</pattern>
+             <that>Ah dommage alors je vous propose les voyages au proche orient ca vous dit</that>
+             <template>Parfait, donc je vous propose nos voyages au proche Orient cet été, on ira donc en Jordanie, Liban, Maroc, Oman ou Palestine (si un de ces pays vous interesse, je vous demande seulement de taper le nom du pays svp) </template>
+          </category>
+
+
+
+        <category>
+             <pattern>Non</pattern>
+             <that>Ah dommage alors je vous propose les voyages au proche orient ca vous dit</that>
+             <template>Oups, ah oui quand même, je vous ai proposé pas mal d'idée. Alors dites moi, vous voulez passer vos vacances dans quel pays Européen? </template>
+          </category>
+
+
+          <category>
+             <pattern>Non *</pattern>
+             <that>Ah dommage alors je vous propose les voyages au proche orient ca vous dit</that>
+             <template>Oups, ah oui quand même, je vous ai proposé pas mal d'idée. Alors dites moi, vous voulez passer vos vacances dans quel pays Européen? </template>
+          </category>
+
+          <category>
+             <pattern>Pas *</pattern>
+             <that>Ah dommage alors je vous propose les voyages au proche orient ca vous dit</that>
+             <template>Oups, ah oui quand même, je vous ai proposé pas mal d'idée. Alors dites moi, vous voulez passer vos vacances dans quel pays Européen? </template>
+          </category>
+
+
+          <category>
+             <pattern> Cher </pattern>
+                 <template>Je sais que c'est un peu cher, mais notre agence est l'une des meilleures en France, ainsi qu'une assurance de voyages et une assurance maladie sont inclus dans le prix du voyage</template>
+          </category>
+
+
+</aiml>

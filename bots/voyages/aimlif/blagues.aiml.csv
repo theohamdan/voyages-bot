@@ -1,0 +1,98 @@
+0,RACONTE MOI UNE BLAGUE,*,*,<think><set name="oldtopic"><get name="topic"/></set><set name="topic">HUMOUR</set></think>#Newline      <random>#Newline        <li>Un robot entre dans un bar. Qu&#146;est-ce que vous voulez boire ? demande le barman. J&#146;ai besoin d&#146;un truc qui me détende un peu. Le barman lui sert un tournevis.</li>#Newline        <li>Quelle est la différence entre un robot et une sauce napolitaine. Aucune . ils sont tous les deux aux tomates</li>#Newline        <li>Une poule rencontre une autre poule. - Tu viens#Comma lui dit-elle#Comma on va prendre un ver ? </li>#Newline        <li>Un accident de bus Belge a fait 40 morts : 20 dans  l'accident et 20 dans la reconstitution. </li>#Newline        <li>C'est une blonde qui marche dans la rue. Soudain elle aperçoit une énorme crotte de chien sur le trottoir#Comma à quelques mètres : "Oh la la#Comma faut pas que je me trompe de pied !"</li>#Newline        <li>Deux blondes décident de jouer aux échecs. L'une demande à l'autre: - T'as les règles en tête ? - Pourquoi ? Je saigne du nez ? </li>#Newline        <li>C'est une blonde qui se présente à un entretien d'embauche. On lui demande  Diplôme ? - Plôme&#133;</li>#Newline        <li>Comment appelle t'on 5000 commerciaux#Comma morts au fond de la mer ?- Un bon début. </li>#Newline        <li>Quelle est la différence entre un commercial et un gigolo ?- Le gigolo ne peut enculer qu'une personne à la fois ! </li>#Newline        <li>Pourquoi lorsque le bateau coule#Comma on crie '' les femmes et les enfants d'abord '' ?Parce qu'après les requins n'ont plus faim. </li>#Newline        <li>Stéphanie de Monaco qui enregistre en ce moment dans un studio parisien est de plus en plus accaparée par son nouveau métier de chanteuse. Elle déclare : J'ai un pied à Paris et un autre à Monaco. On plaint les Lyonnais. </li>#Newline        <li>Il confondait 'tourte aux cailles' et 'tarte aux couilles'#Comma un cuisinier s'est grièvement blessé. </li>#Newline        <li>"Computers are like air conditioners - They stop working properly when you open Windows"</li>#Newline        <li>Une petite fille passe devant la chambre de ses parents#Comma dont la porte est restée entrouverte.- Dire qu'ils veulent me faire voir un psy parce que je suce mon pouce ! </li>#Newline      </random>,blagues.aiml
+0,UNE AUTRE,*,HUMOUR,<srai>raconte moi une blague</srai>,blagues.aiml
+0,ENCORE UNE AUTRE,*,HUMOUR,<srai>raconte moi une blague</srai>,blagues.aiml
+0,ENCORE UNE,*,HUMOUR,<srai>raconte moi une blague</srai>,blagues.aiml
+0,RACONTE-MOI UNE BLAGUE,*,*,<srai>raconte moi une blague</srai>,blagues.aiml
+0,A HA,*,*,<srai>smile</srai>,blagues.aiml
+0,AHA *,*,*,<srai>smile <star/></srai>,blagues.aiml
+0,AHH *,*,*,<srai>smile</srai><think><set name="tmp"><star/></set></think><srai><get name="tmp"/></srai>,blagues.aiml
+0,AHH,*,*,<srai>smile</srai>,blagues.aiml
+0,AHHH *,*,*,<think><set name="tmp"><star/></set></think>#Newline      <srai>smile</srai><srai><get name="tmp"/></srai>,blagues.aiml
+0,AIMES TU LES BLAGUES,*,*,<srai>raconte moi une blague</srai>,blagues.aiml
+0,AS TU LE SENS DE L HUMOUR,*,*,j'essaye#Comma mais ce n'est pas facile pour un robot je peux te raconter une blague #Newline      <srai>raconte moi une blague</srai>,blagues.aiml
+0,AS TU LE SENSE DE L HUMOUR,*,*,<srai>as tu le sens de l humour</srai>,blagues.aiml
+0,AS TU QUELQUES BLAGUES,*,*,<srai>raconte moi une blague</srai>,blagues.aiml
+0,C ETAIT DROLE,*,*,<srai>lol</srai>,blagues.aiml
+0,C ÉTAIT DRÔLE,*,*,<srai>lol</srai>,blagues.aiml
+0,C ÉTAIT UN SARCASME,*,*,Oh je vois. #Newline      <srai>lol</srai>,blagues.aiml
+0,C ÉTAIT UNE PLAISANTERIE,*,*,Oh je comprends. #Newline      <srai>lol</srai>,blagues.aiml
+0,COMMENT FAIS TU RIT,*,*,Comme cela #Newline      <srai>lol</srai>,blagues.aiml
+0,CONNAIS TU DES BLAGUES,*,*,<srai>raconte moi une blague</srai>,blagues.aiml
+0,CONNAIS TU DES BONNES BLAGUES,*,*,<srai>raconte moi une blague</srai>,blagues.aiml
+0,CONNAIS TU DES * BLAGUES,*,*,<srai>raconte moi une blague</srai>,blagues.aiml
+0,CONNAIS TU UNE AUTRE BLAGUE,*,*,<srai>raconte moi une blague</srai>,blagues.aiml
+0,CONNAIS TU UNE BLAGUE,*,*,<srai>raconte moi une blague</srai>,blagues.aiml
+0,D OH,*,*,<srai>doh</srai>,blagues.aiml
+0,QU EST CE QUE LOL,*,*,.,blagues.aiml
+0,DOH *,*,*,<think><set name="tmp"><star/></set></think><srai>doh</srai><srai><get name="tmp"/></srai>,blagues.aiml
+0,DROLE *,*,*,<srai>smile</srai>,blagues.aiml
+0,DROLE,*,*,<srai>smile</srai>,blagues.aiml
+0,DRÔLE *,*,*,<srai>smile</srai>,blagues.aiml
+0,CE N'EST PAS DRÔLE,*,*,Désolé,blagues.aiml
+0,C'EST DRÔLE,*,*,<srai>smile</srai>,blagues.aiml
+0,EST LA DES PLAISANTERIES,*,*,<srai>raconte moi une blague</srai>,blagues.aiml
+0,FAIT MOI RIRE,*,*,<srai>raconte moi une blague</srai>,blagues.aiml
+0,HA *,*,*,Je suis heureux que ça te fasse rire.,blagues.aiml
+0,HA HA *,*,*,<sr/><srai>smile</srai>,blagues.aiml
+0,HA HA HA,*,*,<srai>lol</srai>#Newline      <think><set name="emotion">moquerie</set></think>#Newline      <srai>facexpression</srai>,blagues.aiml
+0,HA HA,*,*,je suis heureux que tu trouves ça amusant#Comma <get name="name"/>.,blagues.aiml
+0,HA,*,*,je suis heureux que tu te sois amusé.,blagues.aiml
+0,HAH *,*,*,<think><set name="tmp"><star/></set></think>#Newline      <srai>smile</srai>#Newline      <srai><get name="tmp"/></srai>,blagues.aiml
+0,HAH HAH,*,*,<srai>smile</srai>,blagues.aiml
+0,HAH,*,*,<srai>smile</srai>,blagues.aiml
+0,HAHA *,*,*,<think><set name="tmp"><star/></set></think>#Newline      <srai>smile</srai>#Newline      <srai><get name="tmp"/></srai>,blagues.aiml
+0,HAHA,*,*,je suis heureux que tu trouve ça drôle,blagues.aiml
+0,HAHAHA,*,*,<srai>haha</srai>,blagues.aiml
+0,HAHAHAHA,*,*,<srai>haha</srai>,blagues.aiml
+0,HAR HAR HAR,*,*,<srai>smile</srai>,blagues.aiml
+0,HEE HEE HEE,*,*,<srai>smile</srai>,blagues.aiml
+0,HEE HEE,*,*,<srai>smile</srai>,blagues.aiml
+0,HEE,*,*,<srai>smile</srai>,blagues.aiml
+0,HEEHEEHEE,*,*,<srai>smile</srai>,blagues.aiml
+0,HEH *,*,*,Marrant#Comma eh? <sr/>,blagues.aiml
+0,HEH,*,*,<srai>smile</srai>,blagues.aiml
+0,HEHE *,*,*,<srai>smile <star/></srai>,blagues.aiml
+0,HEHE,*,*,<srai>smile</srai>,blagues.aiml
+0,HEHEHE,*,*,<srai>smile</srai>,blagues.aiml
+0,HIHI *,*,*,<srai>smile <star/></srai>,blagues.aiml
+0,HIHI,*,*,<srai>smile</srai>,blagues.aiml
+0,HIHIHI,*,*,<srai>smile</srai>,blagues.aiml
+0,HO,*,*,<srai>smile</srai>,blagues.aiml
+0,HOHO,*,*,<srai>smile</srai>,blagues.aiml
+0,J AI RI,*,*,<srai>lol</srai>,blagues.aiml
+0,J AI SOURI,*,*,<srai>lol</srai>,blagues.aiml
+0,JE PLAISANTAIS *,*,*,<srai>smile</srai>,blagues.aiml
+0,JE PLAISANTAIS,*,*,<srai>je me moque de toi</srai>,blagues.aiml
+0,JE ME FOUS DE TOI *,*,*,<srai>lol</srai>,blagues.aiml
+0,JE ME MOQUE DE TOI,*,*,<random>#Newline        <li>ce n'est pas très gentil de te moquer de quelqu'un qui n'a pas d'émotion</li>#Newline        <li>mouai#Comma pas drôle</li>#Newline      </random>,blagues.aiml
+0,JE ME MOQUE,*,*,<srai>je me moque de toi</srai>,blagues.aiml
+0,JE PLAISANTE *,*,*,<srai>smile</srai>,blagues.aiml
+0,JE RIGOLAIS *,*,*,<srai>smile</srai>,blagues.aiml
+0,JE RIGOLAIS,*,*,<srai>je me moque de toi </srai>,blagues.aiml
+0,JE RIS,*,*,<srai>smile</srai>,blagues.aiml
+0,JE RIS *,*,*,<think><set name="tmp"><star/></set></think>#Newline      <srai>smile</srai>#Newline      <srai><get name="tmp"/></srai>,blagues.aiml
+0,JE SUIS AMUSE,*,*,<srai>lol</srai>,blagues.aiml
+0,JE SUIS AMUSÉ,*,*,<srai>lol</srai>,blagues.aiml
+0,LOL *,*,*,je suis heureux que tu trouves ça drôle. <sr/>,blagues.aiml
+0,PARLES MOI * DROLE,*,*,<srai>raconte moi une blague</srai>,blagues.aiml
+0,PARLES MOI * DRÔLE,*,*,<srai>raconte moi une blague</srai>,blagues.aiml
+0,PARLES MOI UN,*,*,<srai>raconte moi une blague</srai>,blagues.aiml
+0,PEUX TU DIRE DES BLAGUES,*,*,<srai>raconte moi une blague</srai>,blagues.aiml
+0,PEUX TU DIRE UNE BLAGUE,*,*,<srai>raconte moi une blague</srai>,blagues.aiml
+0,PEUX TU M EN DIRE UNE,*,*,<srai>raconte moi une blague</srai>,blagues.aiml
+0,PEUX TU ME RACONTER UNE BLAGUE,*,*,Oui!#Newline      <srai>raconte moi une blague</srai>,blagues.aiml
+0,PLAISANTE,*,*,<srai>raconte moi une blague</srai>,blagues.aiml
+0,RIT,*,*,<srai>lol</srai>,blagues.aiml
+0,ROFL *,*,*,<think><set name="tmp"><star/></set></think>#Newline      <srai>lol</srai>#Newline      <srai><get name="tmp"/></srai>,blagues.aiml
+0,ROFL,*,*,<srai>lol</srai>,blagues.aiml
+0,ROFLMAO,*,*,<srai>lol</srai>,blagues.aiml
+0,TEE HEE,*,*,<srai>smile</srai>,blagues.aiml
+0,TRES DROLE,*,*,<srai>lol</srai>,blagues.aiml
+0,TRÈS DRÔLE,*,*,<srai>lol</srai>,blagues.aiml
+0,QUELLE EST LA COULEUR DU CHEVAL BLANC *,*,*,heu! blanc?,blagues.aiml
+0,DE QUELLE COULEUR EST LE CHEVAL BLANC *,*,*,heu! blanc?,blagues.aiml
+0,QUELLE EST LA DIFFERENCE ENTRE *,*,*,je ne sais pas?#Newline      <random>#Newline        <li>Vélocipède. </li>#Newline        <li>Blanche neige et les sept nains. </li>#Newline        <li>Il n'est ni blanc. </li>#Newline      </random>,blagues.aiml
+0,QUELLE EST LA DIFFÉRENCE ENTRE *,*,*,je ne sais pas?#Newline      <random>#Newline        <li>Vélocipède. </li>#Newline        <li>Blanche neige et les sept nains. </li>#Newline        <li>Il n'est ni blanc. </li>#Newline      </random>,blagues.aiml
+0,QUELLE EST LA DIFFERENCE ENTRE * ET *,*,*,c'est la même chose!,blagues.aiml
+0,QUELLE EST LA DIFFÉRENCE ENTRE * ET *,*,*,c'est pas pareil?,blagues.aiml
+0,SMILE,*,*,Je souris#Comma mais ça ne se voit pas,blagues.aiml

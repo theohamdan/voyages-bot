@@ -1,0 +1,2290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<!-- Albanie -->
+
+
+<category>
+      <pattern>Albanie</pattern>
+      <template>De Skopje, la capitale macédonienne, à Ohrid, un petit paradis pas trop divulgué, avec des escapades à Pristina au Kosovo et à Pogradec en Albanie, on semble ne pas devoir reprendre son souffle. Voulez vous savoir le prix?
+      </template>
+   </category>
+
+   <category>
+      <pattern>* Albanie</pattern>
+      <template><srai>Albanie</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Tirana</pattern>
+      <template><srai>Albanie</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>de skopje la capitale macedonienne a ohrid un petit paradis pas trop divulgue avec des escapades a pristina au kosovo et a pogradec en albanie on semble ne pas devoir reprendre son souffle voulez vous savoir le prix</that>
+             <template>Pour ce voyage le prix sera de 1800 à 2000 Euros par personne</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>de skopje la capitale macedonienne a ohrid un petit paradis pas trop divulgue avec des escapades a pristina au kosovo et a pogradec en albanie on semble ne pas devoir reprendre son souffle voulez vous savoir le prix</that>
+             <template>Alors la date de départ pour le voyage en Albanie?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en albanie</that>
+             <template>C'est pour 5 jours et le départ est le 12 mai</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en albanie</that>
+             <template>Donc l'heure de départ pour le voyage en Albanie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en albanie</that>
+             <template>Le départ sera à 11h15</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en albanie</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+<!-- Allemagne -->
+
+<category>
+      <pattern>Allemagne</pattern>
+      <template>Berlin est une capitale qui se prête admirablement aux échappées en famille. Très étendue, tout y est pourtant à taille humaine, et les Berlinois, souvent francophones, sont réputés pour leur contact facile et avenant. Souhaitez vous savoir le prix de ce voyage?
+      </template>
+   </category>
+
+   <category>
+      <pattern>* Allemagne</pattern>
+      <template><srai>Allemagne</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Berlin</pattern>
+      <template><srai>Allemagne</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>berlin est une capitale qui se prete admirablement aux echappees en famille tres etendue tout y est pourtant a taille humaine et les berlinois souvent francophones sont reputes pour leur contact facile et avenant souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 1100€ à 1400€/personne</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>berlin est une capitale qui se prete admirablement aux echappees en famille tres etendue tout y est pourtant a taille humaine et les berlinois souvent francophones sont reputes pour leur contact facile et avenant souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Allemagne?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en allemagne</that>
+             <template>Le départ est le 12 juin pour 4 jours.</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en allemagne</that>
+             <template>Donc l'heure de départ pour le voyage en Allemagne?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en allemagne</that>
+             <template>C'est à 08h30 :)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en allemagne</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+<!-- Autriche -->
+        <category>
+      <pattern>Autriche</pattern>
+      <template>Vienne est légère, mais Vienne a de la tenue. On s’en rend compte à la parcourir. L’ordre impérial s’y rencontre encore partout et le Karl-Marx-Hof rivalise de respectabilité avec lui. Donc vous voulez savoir le prix de ce voyage?
+      </template>
+   </category>
+
+   <category>
+      <pattern>* Autriche</pattern>
+      <template><srai>Autriche</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Vienne</pattern>
+      <template><srai>Autriche</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>vienne est legere mais vienne a de la tenue on s en rend compte a la parcourir l ordre imperial s y rencontre encore partout et le karl marx hof rivalise de respectabilite avec lui donc vous voulez savoir le prix de ce voyage</that>
+             <template>de 800 à 1200 Euros par personne</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>vienne est legere mais vienne a de la tenue on s en rend compte a la parcourir l ordre imperial s y rencontre encore partout et le karl marx hof rivalise de respectabilite avec lui donc vous voulez savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Autriche?</template>
+        </category>
+
+        <category>
+      <pattern>NON *</pattern>
+      <template><srai>NON</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en autriche</that>
+             <template>Le départ est le 16 aout pour 2 jours</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en autriche</that>
+             <template>Donc l'heure de départ pour le voyage en Autriche?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en autriche</that>
+             <template>Le départ sera à 09h00</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en autriche</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+<!-- Balkans -->
+        <category>
+      <pattern>Balkans</pattern>
+      <template>En marge des adresses plus institutionnelles en ville, cet hôtel joue la carte du design et d'un décor au goût du jour au coeur du vieux Ljubljana. Ses intérieurs sont répartis parmi quatre hôtels particuliers situés en contrebas du château : vous êtes ici au coeur du centre historique où il fait bon flâner au gré des ruelles pavées et des terrasses de café. Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+   
+   <category>
+      <pattern>* Balkans</pattern>
+      <template><srai>Balkans</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Belgrade</pattern>
+      <template><srai>Balkans</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>en marge des adresses plus institutionnelles en ville cet hotel joue la carte du design et d un decor au gout du jour au coeur du vieux ljubljana ses interieurs sont repartis parmi quatre hotels particuliers situes en contrebas du chateau vous etes ici au coeur du centre historique ou il fait bon flaner au gre des ruelles pavees et des terrasses de cafe souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 800€ à 1100€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>en marge des adresses plus institutionnelles en ville cet hotel joue la carte du design et d un decor au gout du jour au coeur du vieux ljubljana ses interieurs sont repartis parmi quatre hotels particuliers situes en contrebas du chateau vous etes ici au coeur du centre historique ou il fait bon flaner au gre des ruelles pavees et des terrasses de cafe souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage aux Balkans?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage aux balkans</that>
+             <template>Nous allons partir le 11 juin pour 5 jours</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage aux balkans</that>
+             <template>Donc l'heure de départ pour le voyage aux Balkans?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage aux balkans</that>
+             <template>Le départ sera à 13h10</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage aux balkans</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+<!-- Bosnie Herzegovine -->
+
+        <category>
+      <pattern>Bosnie Herzegovine</pattern>
+      <template>Le problème avec la télévision, c’est qu’elle situe tout au salon et qu’après l’avoir entendue parler de la Bosnie pendant plusieurs années, on ne sait toujours pas exactement où ça se trouve. Sous le bras de la Croatie. L’Herzégovine avec, au sud de la Bosnie. L’une et l’autre sont désormais dans une fédération et récupèrent d’une guerre particulièrement cruelle. Souhaitez vous savoir le prix de ce voyage?
+      </template>
+   </category>
+
+   <category>
+      <pattern>* Bosnie Herzegovine</pattern>
+      <template><srai>Bosnie Herzegovine</srai></template>
+   </category>
+   <category>
+      <pattern>Bosnie *</pattern>
+      <template><srai>Bosnie Herzegovine</srai></template>
+   </category>
+
+   <category>
+      <pattern>Bosnie</pattern>
+      <template><srai>Bosnie Herzegovine</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Bosnie</pattern>
+      <template><srai>Bosnie Herzegovine</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Sarajevo</pattern>
+      <template><srai>Bosnie Herzegovine</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>le probleme avec la television c est qu elle situe tout au salon et qu apres l avoir entendue parler de la bosnie pendant plusieurs annees on ne sait toujours pas exactement ou ca se trouve sous le bras de la croatie l herzegovine avec au sud de la bosnie l une et l autre sont desormais dans une federation et recuperent d une guerre particulierement cruelle souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 1700€ à 2100€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>le probleme avec la television c est qu elle situe tout au salon et qu apres l avoir entendue parler de la bosnie pendant plusieurs annees on ne sait toujours pas exactement ou ca se trouve sous le bras de la croatie l herzegovine avec au sud de la bosnie l une et l autre sont desormais dans une federation et recuperent d une guerre particulierement cruelle souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Bosnie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en bosnie</that>
+             <template>le départ sera le 13 aout à 08h30</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en bosnie</that>
+             <template>Donc l'heure de départ pour le voyage en Bosnie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en bosnie</that>
+             <template> à 08h30 :)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en bosnie</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+<!-- Bulgarie -->
+
+    <category>
+      <pattern>Bulgarie</pattern>
+      <template>Voyons, il y a un littoral sur la mer Noire, mais si on n’y va pas, alors c’est le propos de ce voyage de vous faire découvrir une Bulgarie riche d’autre chose que de plages et d’eau salée. Un pays authentique et chaleureux. Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+
+   <category>
+      <pattern>* Bulgarie</pattern>
+      <template><srai>Bulgarie</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Sofia</pattern>
+      <template><srai>Bulgarie</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>voyons il y a un littoral sur la mer noire mais si on n y va pas alors c est le propos de ce voyage de vous faire decouvrir une bulgarie riche d autre chose que de plages et d eau salee un pays authentique et chaleureux souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 1200€ à 1500€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>voyons il y a un littoral sur la mer noire mais si on n y va pas alors c est le propos de ce voyage de vous faire decouvrir une bulgarie riche d autre chose que de plages et d eau salee un pays authentique et chaleureux souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Bulgarie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en bulgarie</that>
+             <template>Nous proposons que le départ soit le 02 septembre à 17h00</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en bulgarie</that>
+             <template>Donc l'heure de départ pour le voyage en Bulgarie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en bulgarie</that>
+             <template>ver 17h00 :)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en bulgarie</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+        
+
+
+
+        <!-- Croatie -->
+
+    <category>
+      <pattern>Croatie</pattern>
+      <template>Le bon cocktail croate, c’est peut-être deux tiers urbains, un tiers nature. Les deux premiers jours du voyage sont donc consacrés à la capitale installée au pied des reliefs de la Medvednica. Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+
+   <category>
+      <pattern>* Croatie</pattern>
+      <template><srai>Croatie</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Zagreb</pattern>
+      <template><srai>Croatie</srai></template>
+   </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>le bon cocktail croate c est peut etre deux tiers urbains un tiers nature les deux premiers jours du voyage sont donc consacres a la capitale installee au pied des reliefs de la medvednica souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 800€ à 1100€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>le bon cocktail croate c est peut etre deux tiers urbains un tiers nature les deux premiers jours du voyage sont donc consacres a la capitale installee au pied des reliefs de la medvednica souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Croatie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en croatie</that>
+             <template>Nous proposons que le départ soit le 02 septembre à 17h00</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en croatie</that>
+             <template>Donc l'heure de départ pour le voyage en Croatie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en croatie</that>
+             <template>ver 17h00 :)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en croatie</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+
+        <!-- Danemark -->
+
+    <category>
+      <pattern>Danemark</pattern>
+      <template>Cette échappée en deux temps donne à voir les spécificités, les atmosphères et les complémentarités des deux plus grandes villes du Danemark avec, pour fil conducteur, un art de vivre singulier et une recherche du bien-être si cher aux Danois. Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+
+   <category>
+      <pattern>* Danemark</pattern>
+      <template><srai>Danemark</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Copenhague</pattern>
+      <template><srai>Danemark</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>cette echappee en deux temps donne a voir les specificites les atmospheres et les complementarites des deux plus grandes villes du danemark avec pour fil conducteur un art de vivre singulier et une recherche du bien etre si cher aux danois souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 1400€ à 1700€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+              <that>cette echappee en deux temps donne a voir les specificites les atmospheres et les complementarites des deux plus grandes villes du danemark avec pour fil conducteur un art de vivre singulier et une recherche du bien etre si cher aux danois souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Danemark?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en danemark</that>
+             <template>Nous proposons que le départ soit le 02 septembre à 17h00</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en danemark</that>
+             <template>Donc l'heure de départ pour le voyage en Danemark?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en danemark</that>
+             <template>A peu près à 18h20 :)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en danemark</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+
+
+        <!-- Ukraine -->
+
+    <category>
+      <pattern>Ukraine</pattern>
+      <template>Wow, c'est beau Ukraine, la situation stratégique a permis le développement du commerce et la sédentarisation de nombreux peuples slaves, russes mais aussi méditerranéens (grecs et italiens) ou suédois. Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+
+   <category>
+      <pattern>* Ukraine</pattern>
+      <template><srai>Ukraine</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Kiev</pattern>
+      <template><srai>Ukraine</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>wow c est beau ukraine la situation strategique a permis le developpement du commerce et la sedentarisation de nombreux peuples slaves russes mais aussi mediterraneens grecs et italiens ou suedois souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 600€ à 800€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>wow c est beau ukraine la situation strategique a permis le developpement du commerce et la sedentarisation de nombreux peuples slaves russes mais aussi mediterraneens grecs et italiens ou suedois souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Ukraine?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en ukraine</that>
+             <template>Nous proposons que le départ soit le 02 septembre à 17h00</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en ukraine</that>
+             <template>Donc l'heure de départ pour le voyage en Ukraine?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en ukraine</that>
+             <template>Ver 11h15 ;)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en ukraine</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+        <!-- Suisse -->
+
+    <category>
+      <pattern>Suisse</pattern>
+      <template>Le manteau blanc s’efface, remplacé par un nuancier d’été : pâturages vert vif, rouge des trains à crémaillère et bleu des lacs à perte de vue. Les skis sont rangés, place à la marche - les balades dévoilent un panorama d’une beauté saisissante. Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+
+   <category>
+      <pattern>* Suisse</pattern>
+      <template><srai>Suisse</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Berne</pattern>
+      <template><srai>Suisse</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>le manteau blanc s efface remplace par un nuancier d ete paturages vert vif rouge des trains a cremaillere et bleu des lacs a perte de vue les skis sont ranges place a la marche les balades devoilent un panorama d une beaute saisissante souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 3100€ à 3800€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>le manteau blanc s efface remplace par un nuancier d ete paturages vert vif rouge des trains a cremaillere et bleu des lacs a perte de vue les skis sont ranges place a la marche les balades devoilent un panorama d une beaute saisissante souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Suisse?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en suisse</that>
+             <template>Nous proposons que le départ soit le 02 septembre à 17h00</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en suisse</that>
+             <template>Donc l'heure de départ pour le voyage en Suisse?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en suisse</that>
+             <template>L'heure de départ sera à 09h15.</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en suisse</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+        <!-- Suede -->
+
+
+<category>
+      <pattern>Suede</pattern>
+      <template>Un long week-end pour lâcher prise et prendre l’air, le vrai, le temps d’une pause nature et culture : voilà ce que prévoit cette escapade sur la côte ouest de la Suède. Voulez vous savoir le prix?
+      </template>
+   </category>
+
+   <category>
+      <pattern>* Suede</pattern>
+      <template><srai>Suede</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Stockholm</pattern>
+      <template><srai>Suede</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>un long week end pour lacher prise et prendre l air le vrai le temps d une pause nature et culture voila ce que prevoit cette escapade sur la cote ouest de la suede voulez vous savoir le prix</that>
+             <template>Le budget estimé pour ce voyage est de 1400€ à 1800€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>un long week end pour lacher prise et prendre l air le vrai le temps d une pause nature et culture voila ce que prevoit cette escapade sur la cote ouest de la suede voulez vous savoir le prix</that>
+             <template>Alors la date de départ pour le voyage en Suede?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en suede</that>
+             <template>Notre séjour sera pendant 11 jours en vol direct, à partir de 15 aout ;)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en suede</that>
+             <template>Donc l'heure de départ pour le voyage en Suede?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en suede</that>
+             <template>Le départ sera à 11h15</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en suede</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+<!-- Ecosse -->
+
+<category>
+      <pattern>Ecosse</pattern>
+      <template>Sans doute moins expansive que Londres, la capitale écossaise n’en est pas moins gaiement jeune et ouverte à l’avenir. C’est au cœur d'une campagne élégante et verdoyante qu’Edimbourg a assis son bourg médiéval puis ses fastes géorgiens, qui lui ont valu une inscription au patrimoine mondial de l’UNESCO. L’identité s’y vit intimement, bien arrosée de pluie et de whisky. souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+
+   <category>
+      <pattern>* Ecosse</pattern>
+      <template><srai>Ecosse</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Edimbourg</pattern>
+      <template><srai>Ecosse</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>sans doute moins expansive que londres la capitale ecossaise n en est pas moins gaiement jeune et ouverte a l avenir c est au cœur d une campagne elegante et verdoyante qu edimbourg a assis son bourg medieval puis ses fastes georgiens qui lui ont valu une inscription au patrimoine mondial de l unesco l identite s y vit intimement bien arrosee de pluie et de whisky souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 1200€ à 2000€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>sans doute moins expansive que londres la capitale ecossaise n en est pas moins gaiement jeune et ouverte a l avenir c est au cœur d une campagne elegante et verdoyante qu edimbourg a assis son bourg medieval puis ses fastes georgiens qui lui ont valu une inscription au patrimoine mondial de l unesco l identite s y vit intimement bien arrosee de pluie et de whisky souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Ecosse?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en ecosse</that>
+             <template>le départ sera le 13 aout à 08h30</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en ecosse</that>
+             <template>Donc l'heure de départ pour le voyage en Ecosse?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en ecosse</that>
+             <template> à 08h30 :)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en ecosse</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+<!-- Finlande -->
+        <category>
+      <pattern>Finlande</pattern>
+      <template>De part et d’autre du golfe de Finlande, Helsinki et Tallinn offrent l’exemple de cités européennes ouvertes aux vents du changement, parce qu’elles ont de profondes racines - pour être littorales, elles ne sont pas bâties sur du sable. Donc vous voulez savoir le prix de ce voyage?
+      </template>
+   </category>
+
+   <category>
+      <pattern>* Finlande</pattern>
+      <template><srai>Finlande</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Helsinki</pattern>
+      <template><srai>Finlande</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>de part et d autre du golfe de finlande helsinki et tallinn offrent l exemple de cites europeennes ouvertes aux vents du changement parce qu elles ont de profondes racines pour etre littorales elles ne sont pas baties sur du sable donc vous voulez savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 1350€ à 1650€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+              <that>de part et d autre du golfe de finlande helsinki et tallinn offrent l exemple de cites europeennes ouvertes aux vents du changement parce qu elles ont de profondes racines pour etre littorales elles ne sont pas baties sur du sable donc vous voulez savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Finlande?</template>
+        </category>
+
+        <category>
+      <pattern>NON *</pattern>
+      <template><srai>NON</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en finlande</that>
+             <template>Nous allons partir le 23 juillet avec le charme des ruelles de Séville puis les plaisirs de la côte, une semaine tous ensemble à rythme tranquille 8 jours</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en finlande</that>
+             <template>Donc l'heure de départ pour le voyage en Finlande?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en finlande</that>
+             <template>Le départ sera à 09h00</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en finlande</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+<!-- Grande Bretagne -->
+        <category>
+      <pattern>Grande Bretagne</pattern>
+      <template>Aux confins de l’Europe, face à l’Amérique, l’Ecosse. Un pays partagé entre le monde des basses terres, les Lowlands, et celui des hauts plateaux, les Highlands, entre la culture anglo-saxonne et la culture gaélique. souhaitez vous savoir le prix de ce voyage?
+      </template>
+   </category>
+   
+   <category>
+      <pattern>* Grande Bretagne</pattern>
+      <template><srai>Grande Bretagne</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>aux confins de l europe face a l amerique l ecosse un pays partage entre le monde des basses terres les lowlands et celui des hauts plateaux les highlands entre la culture anglo saxonne et la culture gaelique souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 2600€ à 3500€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>aux confins de l europe face a l amerique l ecosse un pays partage entre le monde des basses terres les lowlands et celui des hauts plateaux les highlands entre la culture anglo saxonne et la culture gaelique souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage au Grande Bretagne?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage au Grande Bretagne</that>
+             <template>Nous allons partir le 11 juin pour 5 jours</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage au Grande Bretagne</that>
+             <template>Donc l'heure de départ pour le voyage au Grande Bretagne?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage au Grande Bretagne</that>
+             <template>Le départ sera à 13h10</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage au Grande Bretagne</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+
+
+<!-- Hongrie -->
+
+        <category>
+      <pattern>Hongrie</pattern>
+      <template>Serpentée par le Danube, Budapest a englouti ses souffrances dans ses eaux paisibles et rêveuses. Mélancolique à ses heures brumeuses ou agitée dans ses nuits d'ivresse, la capitale se dévoile au fil de ses larges avenues ou dans le creux de ses ruelles pavées. Souhaitez vous savoir le prix de ce voyage?
+      </template>
+   </category>
+
+   <category>
+      <pattern>* Hongrie</pattern>
+      <template><srai>Hongrie</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Budapest</pattern>
+      <template><srai>Hongrie</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>serpentee par le danube budapest a englouti ses souffrances dans ses eaux paisibles et reveuses melancolique a ses heures brumeuses ou agitee dans ses nuits d ivresse la capitale se devoile au fil de ses larges avenues ou dans le creux de ses ruelles pavees souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 700€ à 900€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>serpentee par le danube budapest a englouti ses souffrances dans ses eaux paisibles et reveuses melancolique a ses heures brumeuses ou agitee dans ses nuits d ivresse la capitale se devoile au fil de ses larges avenues ou dans le creux de ses ruelles pavees souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Hongrie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en hongrie</that>
+             <template>le départ sera le 13 aout à 08h30</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en hongrie</that>
+             <template>Donc l'heure de départ pour le voyage en Hongrie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en hongrie</that>
+             <template> à 08h30 :)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en hongrie</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+<!-- Irlande -->
+
+    <category>
+      <pattern>Irlande</pattern>
+      <template>L’idée de cette échappée hors saison est de vivre en quelques jours une Irlande au plus près de celle que l’on s’imagine, et que l’on espère. Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+
+   <category>
+      <pattern>* Irlande</pattern>
+      <template><srai>Irlande</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Dublin</pattern>
+      <template><srai>Irlande</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>l idee de cette echappee hors saison est de vivre en quelques jours une irlande au plus pres de celle que l on s imagine et que l on espere souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 1500€ à 1800€/personne, le vol est compris.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>l idee de cette echappee hors saison est de vivre en quelques jours une irlande au plus pres de celle que l on s imagine et que l on espere souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Irlande?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en irlande</that>
+             <template>Nous proposons que le départ soit le 02 septembre à 17h00</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en irlande</that>
+             <template>Donc l'heure de départ pour le voyage en Irlande?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en irlande</that>
+             <template>ver 17h00 :)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en irlande</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+
+        <!-- Slovenie -->
+
+
+<category>
+      <pattern>Slovenie</pattern>
+      <template>Un voyage pour ceux qui ont peu de temps mais beaucoup de curiosité à revendre : sur un grand week-end, vous aurez ici l'occasion de flâner parmi les ruelles braoques et les cafés en terrasse de Ljubljana avant de goûter au grand air des Alpes Juliennes. Voulez vous savoir le prix?
+      </template>
+   </category>
+
+   <category>
+      <pattern>* Slovenie</pattern>
+      <template><srai>Slovenie</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Ljubljana</pattern>
+      <template><srai>Slovenie</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>un voyage pour ceux qui ont peu de temps mais beaucoup de curiosite a revendre sur un grand week end vous aurez ici l occasion de flaner parmi les ruelles braoques et les cafes en terrasse de ljubljana avant de gouter au grand air des alpes juliennes voulez vous savoir le prix</that>
+             <template>Le budget estimé pour ce voyage est de 900€ à 1300€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>un voyage pour ceux qui ont peu de temps mais beaucoup de curiosite a revendre sur un grand week end vous aurez ici l occasion de flaner parmi les ruelles braoques et les cafes en terrasse de ljubljana avant de gouter au grand air des alpes juliennes voulez vous savoir le prix</that>
+             <template>Alors la date de départ pour le voyage en Slovenie?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en slovenie</that>
+             <template>C'est pour 5 jours et le départ est le 12 mai</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en slovenie</that>
+             <template>Donc l'heure de départ pour le voyage en Slovenie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en slovenie</that>
+             <template>Le départ sera à 20h50</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en slovenie</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+
+
+        <!-- Slovaquie -->
+
+<category>
+      <pattern>Slovaquie</pattern>
+      <template>Ce territoire neuf s'est vu officialisé "République Slovaque" en 1993 avant de répondre massivement au "oui" de l'Europe lors du référendum de 2003 : il était temps d'aller découvrir ce petit pays lové au coeur de l'Europe ! Souhaitez vous savoir le prix de ce voyage?
+      </template>
+   </category>
+
+   <category>
+      <pattern>* Slovaquie</pattern>
+      <template><srai>Slovaquie</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Bratislava</pattern>
+      <template><srai>Slovaquie</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ce territoire neuf s est vu officialise republique slovaque en 1993 avant de repondre massivement au oui de l europe lors du referendum de 2003 il etait temps d aller decouvrir ce petit pays love au coeur de l europe souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 900€ à 1100€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ce territoire neuf s est vu officialise republique slovaque en 1993 avant de repondre massivement au oui de l europe lors du referendum de 2003 il etait temps d aller decouvrir ce petit pays love au coeur de l europe souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Slovaquie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en slovaquie</that>
+             <template>Le départ est le 12 juin pour 4 jours.</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en slovaquie</that>
+             <template>Donc l'heure de départ pour le voyage en Slovaquie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en slovaquie</that>
+             <template>C'est à 23h30 :)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en slovaquie</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+
+
+<!-- Serbie -->
+        <category>
+      <pattern>Serbie</pattern>
+      <template>Les Balkans, c’est compliqué. Pas tellement. Moins qu’avant en tout cas. Pour pas mal de mauvaises raisons, mais c’est ainsi. Il faut faire comme les Serbes, désormais regarder en avant plutôt qu’en arrière. Et c’est le moment d’aller voir. Donc vous voulez savoir le prix de ce voyage?
+      </template>
+   </category>
+
+   <category>
+      <pattern>* Serbie</pattern>
+      <template><srai>Serbie</srai></template>
+   </category>
+
+
+   <category>
+      <pattern>* Belgrade</pattern>
+      <template><srai>Serbie</srai></template>
+   </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>les balkans c est complique pas tellement moins qu avant en tout cas pour pas mal de mauvaises raisons mais c est ainsi il faut faire comme les serbes desormais regarder en avant plutot qu en arriere et c est le moment d aller voir donc vous voulez savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 1100€ à 1400€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>les balkans c est complique pas tellement moins qu avant en tout cas pour pas mal de mauvaises raisons mais c est ainsi il faut faire comme les serbes desormais regarder en avant plutot qu en arriere et c est le moment d aller voir donc vous voulez savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Serbie?</template>
+        </category>
+
+        <category>
+      <pattern>NON *</pattern>
+      <template><srai>NON</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en serbie</that>
+             <template>Le départ est le 09 aout pour 4 jours</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en serbie</that>
+             <template>Donc l'heure de départ pour le voyage en Serbie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en serbie</that>
+             <template>Le départ sera à 09h00</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en serbie</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+        <!-- Russie -->
+        <category>
+      <pattern>Russie</pattern>
+      <template>Saint-Pétersbourg est une ville jeune, et turbulente dans les alignements impeccables de ses palais. Capitale culturelle, elle l’a été très tôt et constamment : aujourd’hui encore on y trouve curiosité, goût de risquer, imagination, élan. Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+   
+   <category>
+      <pattern>* Russie</pattern>
+      <template><srai>Russie</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Moscou</pattern>
+      <template><srai>Russie</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>saint petersbourg est une ville jeune et turbulente dans les alignements impeccables de ses palais capitale culturelle elle l a ete tres tot et constamment aujourd hui encore on y trouve curiosite gout de risquer imagination elan souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 1000€ à 1300€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>saint petersbourg est une ville jeune et turbulente dans les alignements impeccables de ses palais capitale culturelle elle l a ete tres tot et constamment aujourd hui encore on y trouve curiosite gout de risquer imagination elan souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Russie?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en russie</that>
+             <template>Nous allons partir le 27 juin pour 9 jours</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en russie</that>
+             <template>Donc l'heure de départ pour le voyage en Russie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en russie</that>
+             <template>Le départ sera à 13h10</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en russie</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+        <!-- Roumanie -->
+
+        <category>
+      <pattern>Roumanie</pattern>
+      <template>Certaines capitales de l'Est se réveillent un peu plus tard que les autres.... Mais quel réveil! Les façades Belle-Epoque se redévoilent, les voitures se font plus rutilantes, les boutiques ouvrent pignon sur rue et les langues se délient : il est temps de venir palper le pouls de la capitale roumaine! Souhaitez vous savoir le prix de ce voyage?
+      </template>
+   </category>
+
+   <category>
+      <pattern>* Roumanie</pattern>
+      <template><srai>Roumanie</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Bucarest</pattern>
+      <template><srai>Roumanie</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>certaines capitales de l est se reveillent un peu plus tard que les autres mais quel reveil les facades belle epoque se redevoilent les voitures se font plus rutilantes les boutiques ouvrent pignon sur rue et les langues se delient il est temps de venir palper le pouls de la capitale roumaine souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 600€ à 800€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>certaines capitales de l est se reveillent un peu plus tard que les autres mais quel reveil les facades belle epoque se redevoilent les voitures se font plus rutilantes les boutiques ouvrent pignon sur rue et les langues se delient il est temps de venir palper le pouls de la capitale roumaine souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Roumanie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en roumanie</that>
+             <template>le départ sera le 13 aout à 13h55</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en roumanie</that>
+             <template>Donc l'heure de départ pour le voyage en Roumanie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en roumanie</that>
+             <template>ça serait à  13h55 ;)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en roumanie</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+        <!-- Norvege -->
+
+<category>
+      <pattern>Norvege</pattern>
+      <template>Beaucoup d’activités et de paysages différents se dévoilent au fil de cet itinéraire plein de surprises : des animaux sauvages, une balade en zodiac, un petit train panoramique et des vikings en chair et en os... Un voyage amusant et rythmé pour découvrir les splendides horizons des fjords et leurs vallées pittoresques. souhaitez vous savoir le prix de ce voyage?
+      </template>
+   </category>
+
+   <category>
+      <pattern>* Norvege</pattern>
+      <template><srai>Norvege</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Oslo</pattern>
+      <template><srai>Norvege</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>beaucoup d activites et de paysages differents se devoilent au fil de cet itineraire plein de surprises des animaux sauvages une balade en zodiac un petit train panoramique et des vikings en chair et en os un voyage amusant et rythme pour decouvrir les splendides horizons des fjords et leurs vallees pittoresques souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 1900€ à 2300€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>beaucoup d activites et de paysages differents se devoilent au fil de cet itineraire plein de surprises des animaux sauvages une balade en zodiac un petit train panoramique et des vikings en chair et en os un voyage amusant et rythme pour decouvrir les splendides horizons des fjords et leurs vallees pittoresques souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage au Norvege?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage au norvege</that>
+             <template>Le départ sera le 10 juil à 00h30</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage au norvege</that>
+             <template>Donc l'heure de départ pour le voyage au Norvege?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage au norvege</that>
+             <template> à 08h30 :)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage au norvege</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+<!-- Pologne -->
+        <category>
+      <pattern>Pologne</pattern>
+      <template>Le quartier des affaires de Varsovie, avec ses buildings de verre et de métal, est le signe du redémarrage de la capitale polonaise ces vingt dernières années. Il fallait faire pièce à l’écrasant palais de la Culture, que les soviétiques avaient offert au pays dans les red fifties. Donc vous voulez savoir le prix de ce voyage?
+      </template>
+   </category>
+
+   <category>
+      <pattern>* Pologne</pattern>
+      <template><srai>Pologne</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Varsovie</pattern>
+      <template><srai>Pologne</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>le quartier des affaires de varsovie avec ses buildings de verre et de metal est le signe du redemarrage de la capitale polonaise ces vingt dernieres annees il fallait faire piece a l ecrasant palais de la culture que les sovietiques avaient offert au pays dans les red fifties donc vous voulez savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 900€ à 1100€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>le quartier des affaires de varsovie avec ses buildings de verre et de metal est le signe du redemarrage de la capitale polonaise ces vingt dernieres annees il fallait faire piece a l ecrasant palais de la culture que les sovietiques avaient offert au pays dans les red fifties donc vous voulez savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Pologne?</template>
+        </category>
+
+        <category>
+      <pattern>NON *</pattern>
+      <template><srai>NON</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en pologne</that>
+             <template>Nous allons partir le 23 juillet pour 6 jours</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en pologne</that>
+             <template>Donc l'heure de départ pour le voyage en Pologne?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en pologne</that>
+             <template>Le départ sera à 05h00 du matin ;)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en pologne</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+<!-- Montenegro -->
+        <category>
+      <pattern>Montenegro</pattern>
+      <template>Ce sont des logiques d’influence et de puissance qui, comme ailleurs, ont fait l’histoire et mis de beaux remparts autour des villes de la région. Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+   
+   <category>
+      <pattern>* Montenegro</pattern>
+      <template><srai>Montenegro</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Podgorica</pattern>
+      <template><srai>Montenegro</srai></template>
+   </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ce sont des logiques d influence et de puissance qui comme ailleurs ont fait l histoire et mis de beaux remparts autour des villes de la region souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 1700€ à 2100€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ce sont des logiques d influence et de puissance qui comme ailleurs ont fait l histoire et mis de beaux remparts autour des villes de la region souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage au Montenegro?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage au montenegro</that>
+             <template>Nous allons partir le 11 juin pour 5 jours</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage au montenegro</that>
+             <template>Donc l'heure de départ pour le voyage au Montenegro?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage au montenegro</that>
+             <template>Le départ sera à 13h10</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage au montenegro</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+<!-- Macedoine -->
+
+        <category>
+      <pattern>Macedoine</pattern>
+      <template>De Skopje, la capitale macédonienne, à Ohrid, un petit paradis pas trop divulgué, avec des escapades à Pristina au Kosovo et à Pogradec en Albanie, on semble ne pas devoir reprendre son souffle ! Pourtant, les petites places ombragées de Skopje ou les berges lumineuses du lac d’Ohrid, vous offriront l’occasion de dilater le temps du voyage. Souhaitez vous savoir le prix de ce voyage?
+      </template>
+   </category>
+
+   <category>
+      <pattern>* Macedoine</pattern>
+      <template><srai>Macedoine</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Skopje</pattern>
+      <template><srai>Macedoine</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>de skopje la capitale macedonienne a ohrid un petit paradis pas trop divulgue avec des escapades a pristina au kosovo et a pogradec en albanie on semble ne pas devoir reprendre son souffle pourtant les petites places ombragees de skopje ou les berges lumineuses du lac d ohrid vous offriront l occasion de dilater le temps du voyage souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 1400€ à 1800€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>de skopje la capitale macedonienne a ohrid un petit paradis pas trop divulgue avec des escapades a pristina au kosovo et a pogradec en albanie on semble ne pas devoir reprendre son souffle pourtant les petites places ombragees de skopje ou les berges lumineuses du lac d ohrid vous offriront l occasion de dilater le temps du voyage souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Macedoine?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en Macedoine</that>
+             <template>le départ sera le 11 avril à 18h30</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en Macedoine</that>
+             <template>Donc l'heure de départ pour le voyage en Macedoine?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en Macedoine</that>
+             <template> à 08h30 :)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en Macedoine</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+<!-- Islande -->
+
+    <category>
+      <pattern>Islande</pattern>
+      <template>L’essence de ce voyage ? Prendre toute la mesure - et la démesure - des étendues sauvages d’Islande à travers une boucle complète du pays, et ce en bénéficiant de nuitées déjà bloquées dans des adresses privilégiées pour leur situation et leur confort. Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+
+   <category>
+      <pattern>* Islande</pattern>
+      <template><srai>Islande</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Reykjavik</pattern>
+      <template><srai>Islande</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>l essence de ce voyage prendre toute la mesure et la demesure des etendues sauvages d islande a travers une boucle complete du pays et ce en beneficiant de nuitees deja bloquees dans des adresses privilegiees pour leur situation et leur confort souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 4600€ à 5700€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>l essence de ce voyage prendre toute la mesure et la demesure des etendues sauvages d islande a travers une boucle complete du pays et ce en beneficiant de nuitees deja bloquees dans des adresses privilegiees pour leur situation et leur confort souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Islande?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en islande</that>
+             <template>Nous proposons que le départ soit le 19 septembre à 13h10.</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en islande</that>
+             <template>Donc l'heure de départ pour le voyage en Islande?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en islande</that>
+             <template>ver 13h10 :)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en islande</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+<!-- Laponie -->
+        <category>
+      <pattern>Laponie</pattern>
+      <template>Cette année, on prend le large et on s'envole au pays du Père Noël pour mieux goûter à la magie des fêtes de fin d’année dans le grand blanc de la Laponie. Conçu pour vivre le meilleur de la Finlande à l’heure d’hiver et plaire au plus grand nombre, ce séjour conjugue l'air scandinave, l'ivresse des grands espaces et un programme adapté à tous. Voulez vous savoir le prix?
+      </template>
+   </category>
+
+   <category>
+      <pattern>* Laponie</pattern>
+      <template><srai>Laponie</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Rovaniemi</pattern>
+      <template><srai>Laponie</srai></template>
+   </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>cette annee on prend le large et on s envole au pays du pere noel pour mieux gouter a la magie des fetes de fin d annee dans le grand blanc de la laponie concu pour vivre le meilleur de la finlande a l heure d hiver et plaire au plus grand nombre ce sejour conjugue l air scandinave l ivresse des grands espaces et un programme adapte a tous voulez vous savoir le prix</that>
+             <template>Le budget estimé pour ce voyage est de 2600€ à 3800€ adulte et de 2200€/enfant.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>cette annee on prend le large et on s envole au pays du pere noel pour mieux gouter a la magie des fetes de fin d annee dans le grand blanc de la laponie concu pour vivre le meilleur de la finlande a l heure d hiver et plaire au plus grand nombre ce sejour conjugue l air scandinave l ivresse des grands espaces et un programme adapte a tous voulez vous savoir le prix</that>
+             <template>Alors la date de départ pour le voyage en Laponie?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en laponie</that>
+             <template>Du 22 au 27 décembre 2018 (6 jours/5 nuits)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en laponie</that>
+             <template>Donc l'heure de départ pour le voyage en Laponie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en laponie</that>
+             <template>Le départ sera à 22h10 :)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en laponie</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+</aiml>

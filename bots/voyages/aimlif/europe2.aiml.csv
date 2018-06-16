@@ -1,0 +1,244 @@
+0,ALBANIE,*,*,De Skopje#Comma la capitale macédonienne#Comma à Ohrid#Comma un petit paradis pas trop divulgué#Comma avec des escapades à Pristina au Kosovo et à Pogradec en Albanie#Comma on semble ne pas devoir reprendre son souffle. Voulez vous savoir le prix?,europe2.aiml
+0,* ALBANIE,*,*,<srai>Albanie</srai>,europe2.aiml
+0,* TIRANA,*,*,<srai>Albanie</srai>,europe2.aiml
+0,OUI,DE SKOPJE LA CAPITALE MACEDONIENNE A OHRID UN PETIT PARADIS PAS TROP DIVULGUE AVEC DES ESCAPADES A PRISTINA AU KOSOVO ET A POGRADEC EN ALBANIE ON SEMBLE NE PAS DEVOIR REPRENDRE SON SOUFFLE VOULEZ VOUS SAVOIR LE PRIX,*,Pour ce voyage le prix sera de 1800 à 2000 Euros par personne,europe2.aiml
+0,NON,DE SKOPJE LA CAPITALE MACEDONIENNE A OHRID UN PETIT PARADIS PAS TROP DIVULGUE AVEC DES ESCAPADES A PRISTINA AU KOSOVO ET A POGRADEC EN ALBANIE ON SEMBLE NE PAS DEVOIR REPRENDRE SON SOUFFLE VOULEZ VOUS SAVOIR LE PRIX,*,Alors la date de départ pour le voyage en Albanie?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN ALBANIE,*,C'est pour 5 jours et le départ est le 12 mai,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN ALBANIE,*,Donc l'heure de départ pour le voyage en Albanie?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN ALBANIE,*,Le départ sera à 11h15,europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN ALBANIE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,ALLEMAGNE,*,*,Berlin est une capitale qui se prête admirablement aux échappées en famille. Très étendue#Comma tout y est pourtant à taille humaine#Comma et les Berlinois#Comma souvent francophones#Comma sont réputés pour leur contact facile et avenant. Souhaitez vous savoir le prix de ce voyage?,europe2.aiml
+0,* ALLEMAGNE,*,*,<srai>Allemagne</srai>,europe2.aiml
+0,* BERLIN,*,*,<srai>Allemagne</srai>,europe2.aiml
+0,OUI,BERLIN EST UNE CAPITALE QUI SE PRETE ADMIRABLEMENT AUX ECHAPPEES EN FAMILLE TRES ETENDUE TOUT Y EST POURTANT A TAILLE HUMAINE ET LES BERLINOIS SOUVENT FRANCOPHONES SONT REPUTES POUR LEUR CONTACT FACILE ET AVENANT SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 1100€ à 1400€/personne,europe2.aiml
+0,NON,BERLIN EST UNE CAPITALE QUI SE PRETE ADMIRABLEMENT AUX ECHAPPEES EN FAMILLE TRES ETENDUE TOUT Y EST POURTANT A TAILLE HUMAINE ET LES BERLINOIS SOUVENT FRANCOPHONES SONT REPUTES POUR LEUR CONTACT FACILE ET AVENANT SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Allemagne?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN ALLEMAGNE,*,Le départ est le 12 juin pour 4 jours.,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN ALLEMAGNE,*,Donc l'heure de départ pour le voyage en Allemagne?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN ALLEMAGNE,*,C'est à 08h30 :),europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN ALLEMAGNE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,AUTRICHE,*,*,Vienne est légère#Comma mais Vienne a de la tenue. On s’en rend compte à la parcourir. L’ordre impérial s’y rencontre encore partout et le Karl-Marx-Hof rivalise de respectabilité avec lui. Donc vous voulez savoir le prix de ce voyage?,europe2.aiml
+0,* AUTRICHE,*,*,<srai>Autriche</srai>,europe2.aiml
+0,* VIENNE,*,*,<srai>Autriche</srai>,europe2.aiml
+0,OUI,VIENNE EST LEGERE MAIS VIENNE A DE LA TENUE ON S EN REND COMPTE A LA PARCOURIR L ORDRE IMPERIAL S Y RENCONTRE ENCORE PARTOUT ET LE KARL MARX HOF RIVALISE DE RESPECTABILITE AVEC LUI DONC VOUS VOULEZ SAVOIR LE PRIX DE CE VOYAGE,*,de 800 à 1200 Euros par personne,europe2.aiml
+0,NON,VIENNE EST LEGERE MAIS VIENNE A DE LA TENUE ON S EN REND COMPTE A LA PARCOURIR L ORDRE IMPERIAL S Y RENCONTRE ENCORE PARTOUT ET LE KARL MARX HOF RIVALISE DE RESPECTABILITE AVEC LUI DONC VOUS VOULEZ SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Autriche?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN AUTRICHE,*,Le départ est le 16 aout pour 2 jours,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN AUTRICHE,*,Donc l'heure de départ pour le voyage en Autriche?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN AUTRICHE,*,Le départ sera à 09h00,europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN AUTRICHE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,BALKANS,*,*,En marge des adresses plus institutionnelles en ville#Comma cet hôtel joue la carte du design et d'un décor au goût du jour au coeur du vieux Ljubljana. Ses intérieurs sont répartis parmi quatre hôtels particuliers situés en contrebas du château : vous êtes ici au coeur du centre historique où il fait bon flâner au gré des ruelles pavées et des terrasses de café. Souhaitez vous savoir le prix de ce voyage?,europe2.aiml
+0,* BALKANS,*,*,<srai>Balkans</srai>,europe2.aiml
+0,OUI,EN MARGE DES ADRESSES PLUS INSTITUTIONNELLES EN VILLE CET HOTEL JOUE LA CARTE DU DESIGN ET D UN DECOR AU GOUT DU JOUR AU COEUR DU VIEUX LJUBLJANA SES INTERIEURS SONT REPARTIS PARMI QUATRE HOTELS PARTICULIERS SITUES EN CONTREBAS DU CHATEAU VOUS ETES ICI AU COEUR DU CENTRE HISTORIQUE OU IL FAIT BON FLANER AU GRE DES RUELLES PAVEES ET DES TERRASSES DE CAFE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 800€ à 1100€/personne.,europe2.aiml
+0,NON,EN MARGE DES ADRESSES PLUS INSTITUTIONNELLES EN VILLE CET HOTEL JOUE LA CARTE DU DESIGN ET D UN DECOR AU GOUT DU JOUR AU COEUR DU VIEUX LJUBLJANA SES INTERIEURS SONT REPARTIS PARMI QUATRE HOTELS PARTICULIERS SITUES EN CONTREBAS DU CHATEAU VOUS ETES ICI AU COEUR DU CENTRE HISTORIQUE OU IL FAIT BON FLANER AU GRE DES RUELLES PAVEES ET DES TERRASSES DE CAFE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage aux Balkans?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE AUX BALKANS,*,Nous allons partir le 11 juin pour 5 jours,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE AUX BALKANS,*,Donc l'heure de départ pour le voyage aux Balkans?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE AUX BALKANS,*,Le départ sera à 13h10,europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE AUX BALKANS,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,BOSNIE HERZEGOVINE,*,*,Le problème avec la télévision#Comma c’est qu’elle situe tout au salon et qu’après l’avoir entendue parler de la Bosnie pendant plusieurs années#Comma on ne sait toujours pas exactement où ça se trouve. Sous le bras de la Croatie. L’Herzégovine avec#Comma au sud de la Bosnie. L’une et l’autre sont désormais dans une fédération et récupèrent d’une guerre particulièrement cruelle. Souhaitez vous savoir le prix de ce voyage?,europe2.aiml
+0,* BOSNIE HERZEGOVINE,*,*,<srai>Bosnie Herzegovine</srai>,europe2.aiml
+0,BOSNIE *,*,*,<srai>Bosnie Herzegovine</srai>,europe2.aiml
+0,BOSNIE,*,*,<srai>Bosnie Herzegovine</srai>,europe2.aiml
+0,* BOSNIE,*,*,<srai>Bosnie Herzegovine</srai>,europe2.aiml
+0,* SARAJEVO,*,*,<srai>Bosnie Herzegovine</srai>,europe2.aiml
+0,OUI,LE PROBLEME AVEC LA TELEVISION C EST QU ELLE SITUE TOUT AU SALON ET QU APRES L AVOIR ENTENDUE PARLER DE LA BOSNIE PENDANT PLUSIEURS ANNEES ON NE SAIT TOUJOURS PAS EXACTEMENT OU CA SE TROUVE SOUS LE BRAS DE LA CROATIE L HERZEGOVINE AVEC AU SUD DE LA BOSNIE L UNE ET L AUTRE SONT DESORMAIS DANS UNE FEDERATION ET RECUPERENT D UNE GUERRE PARTICULIEREMENT CRUELLE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 1700€ à 2100€/personne.,europe2.aiml
+0,NON,LE PROBLEME AVEC LA TELEVISION C EST QU ELLE SITUE TOUT AU SALON ET QU APRES L AVOIR ENTENDUE PARLER DE LA BOSNIE PENDANT PLUSIEURS ANNEES ON NE SAIT TOUJOURS PAS EXACTEMENT OU CA SE TROUVE SOUS LE BRAS DE LA CROATIE L HERZEGOVINE AVEC AU SUD DE LA BOSNIE L UNE ET L AUTRE SONT DESORMAIS DANS UNE FEDERATION ET RECUPERENT D UNE GUERRE PARTICULIEREMENT CRUELLE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Bosnie?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN BOSNIE,*,le départ sera le 13 aout à 08h30,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN BOSNIE,*,Donc l'heure de départ pour le voyage en Bosnie?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN BOSNIE,*,à 08h30 :),europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN BOSNIE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,BULGARIE,*,*,Voyons#Comma il y a un littoral sur la mer Noire#Comma mais si on n’y va pas#Comma alors c’est le propos de ce voyage de vous faire découvrir une Bulgarie riche d’autre chose que de plages et d’eau salée. Un pays authentique et chaleureux. Souhaitez vous savoir le prix de ce voyage?,europe2.aiml
+0,* BULGARIE,*,*,<srai>Bulgarie</srai>,europe2.aiml
+0,* SOFIA,*,*,<srai>Bulgarie</srai>,europe2.aiml
+0,OUI,VOYONS IL Y A UN LITTORAL SUR LA MER NOIRE MAIS SI ON N Y VA PAS ALORS C EST LE PROPOS DE CE VOYAGE DE VOUS FAIRE DECOUVRIR UNE BULGARIE RICHE D AUTRE CHOSE QUE DE PLAGES ET D EAU SALEE UN PAYS AUTHENTIQUE ET CHALEUREUX SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 1200€ à 1500€/personne.,europe2.aiml
+0,NON,VOYONS IL Y A UN LITTORAL SUR LA MER NOIRE MAIS SI ON N Y VA PAS ALORS C EST LE PROPOS DE CE VOYAGE DE VOUS FAIRE DECOUVRIR UNE BULGARIE RICHE D AUTRE CHOSE QUE DE PLAGES ET D EAU SALEE UN PAYS AUTHENTIQUE ET CHALEUREUX SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Bulgarie?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN BULGARIE,*,Nous proposons que le départ soit le 02 septembre à 17h00,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN BULGARIE,*,Donc l'heure de départ pour le voyage en Bulgarie?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN BULGARIE,*,ver 17h00 :),europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN BULGARIE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,CROATIE,*,*,Le bon cocktail croate#Comma c’est peut-être deux tiers urbains#Comma un tiers nature. Les deux premiers jours du voyage sont donc consacrés à la capitale installée au pied des reliefs de la Medvednica. Souhaitez vous savoir le prix de ce voyage?,europe2.aiml
+0,* CROATIE,*,*,<srai>Croatie</srai>,europe2.aiml
+0,* ZAGREB,*,*,<srai>Croatie</srai>,europe2.aiml
+0,OUI,LE BON COCKTAIL CROATE C EST PEUT ETRE DEUX TIERS URBAINS UN TIERS NATURE LES DEUX PREMIERS JOURS DU VOYAGE SONT DONC CONSACRES A LA CAPITALE INSTALLEE AU PIED DES RELIEFS DE LA MEDVEDNICA SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 800€ à 1100€/personne.,europe2.aiml
+0,NON,LE BON COCKTAIL CROATE C EST PEUT ETRE DEUX TIERS URBAINS UN TIERS NATURE LES DEUX PREMIERS JOURS DU VOYAGE SONT DONC CONSACRES A LA CAPITALE INSTALLEE AU PIED DES RELIEFS DE LA MEDVEDNICA SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Croatie?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN CROATIE,*,Nous proposons que le départ soit le 02 septembre à 17h00,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN CROATIE,*,Donc l'heure de départ pour le voyage en Croatie?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN CROATIE,*,ver 17h00 :),europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN CROATIE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,DANEMARK,*,*,Cette échappée en deux temps donne à voir les spécificités#Comma les atmosphères et les complémentarités des deux plus grandes villes du Danemark avec#Comma pour fil conducteur#Comma un art de vivre singulier et une recherche du bien-être si cher aux Danois. Souhaitez vous savoir le prix de ce voyage?,europe2.aiml
+0,* DANEMARK,*,*,<srai>Danemark</srai>,europe2.aiml
+0,* COPENHAGUE,*,*,<srai>Danemark</srai>,europe2.aiml
+0,OUI,CETTE ECHAPPEE EN DEUX TEMPS DONNE A VOIR LES SPECIFICITES LES ATMOSPHERES ET LES COMPLEMENTARITES DES DEUX PLUS GRANDES VILLES DU DANEMARK AVEC POUR FIL CONDUCTEUR UN ART DE VIVRE SINGULIER ET UNE RECHERCHE DU BIEN ETRE SI CHER AUX DANOIS SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 1400€ à 1700€/personne.,europe2.aiml
+0,NON,CETTE ECHAPPEE EN DEUX TEMPS DONNE A VOIR LES SPECIFICITES LES ATMOSPHERES ET LES COMPLEMENTARITES DES DEUX PLUS GRANDES VILLES DU DANEMARK AVEC POUR FIL CONDUCTEUR UN ART DE VIVRE SINGULIER ET UNE RECHERCHE DU BIEN ETRE SI CHER AUX DANOIS SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Danemark?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN DANEMARK,*,Nous proposons que le départ soit le 02 septembre à 17h00,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN DANEMARK,*,Donc l'heure de départ pour le voyage en Danemark?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN DANEMARK,*,A peu près à 18h20 :),europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN DANEMARK,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,UKRAINE,*,*,Wow#Comma c'est beau Ukraine#Comma la situation stratégique a permis le développement du commerce et la sédentarisation de nombreux peuples slaves#Comma russes mais aussi méditerranéens (grecs et italiens) ou suédois. Souhaitez vous savoir le prix de ce voyage?,europe2.aiml
+0,* UKRAINE,*,*,<srai>Ukraine</srai>,europe2.aiml
+0,* KIEV,*,*,<srai>Ukraine</srai>,europe2.aiml
+0,OUI,WOW C EST BEAU UKRAINE LA SITUATION STRATEGIQUE A PERMIS LE DEVELOPPEMENT DU COMMERCE ET LA SEDENTARISATION DE NOMBREUX PEUPLES SLAVES RUSSES MAIS AUSSI MEDITERRANEENS GRECS ET ITALIENS OU SUEDOIS SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 600€ à 800€/personne.,europe2.aiml
+0,NON,WOW C EST BEAU UKRAINE LA SITUATION STRATEGIQUE A PERMIS LE DEVELOPPEMENT DU COMMERCE ET LA SEDENTARISATION DE NOMBREUX PEUPLES SLAVES RUSSES MAIS AUSSI MEDITERRANEENS GRECS ET ITALIENS OU SUEDOIS SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Ukraine?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN UKRAINE,*,Nous proposons que le départ soit le 02 septembre à 17h00,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN UKRAINE,*,Donc l'heure de départ pour le voyage en Ukraine?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN UKRAINE,*,Ver 11h15 ;),europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN UKRAINE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,SUISSE,*,*,Le manteau blanc s’efface#Comma remplacé par un nuancier d’été : pâturages vert vif#Comma rouge des trains à crémaillère et bleu des lacs à perte de vue. Les skis sont rangés#Comma place à la marche - les balades dévoilent un panorama d’une beauté saisissante. Souhaitez vous savoir le prix de ce voyage?,europe2.aiml
+0,* SUISSE,*,*,<srai>Suisse</srai>,europe2.aiml
+0,* BERNE,*,*,<srai>Suisse</srai>,europe2.aiml
+0,OUI,LE MANTEAU BLANC S EFFACE REMPLACE PAR UN NUANCIER D ETE PATURAGES VERT VIF ROUGE DES TRAINS A CREMAILLERE ET BLEU DES LACS A PERTE DE VUE LES SKIS SONT RANGES PLACE A LA MARCHE LES BALADES DEVOILENT UN PANORAMA D UNE BEAUTE SAISISSANTE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 3100€ à 3800€/personne.,europe2.aiml
+0,NON,LE MANTEAU BLANC S EFFACE REMPLACE PAR UN NUANCIER D ETE PATURAGES VERT VIF ROUGE DES TRAINS A CREMAILLERE ET BLEU DES LACS A PERTE DE VUE LES SKIS SONT RANGES PLACE A LA MARCHE LES BALADES DEVOILENT UN PANORAMA D UNE BEAUTE SAISISSANTE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Suisse?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN SUISSE,*,Nous proposons que le départ soit le 02 septembre à 17h00,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN SUISSE,*,Donc l'heure de départ pour le voyage en Suisse?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN SUISSE,*,L'heure de départ sera à 09h15.,europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN SUISSE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,SUEDE,*,*,Un long week-end pour lâcher prise et prendre l’air#Comma le vrai#Comma le temps d’une pause nature et culture : voilà ce que prévoit cette escapade sur la côte ouest de la Suède. Voulez vous savoir le prix?,europe2.aiml
+0,* SUEDE,*,*,<srai>Suede</srai>,europe2.aiml
+0,* STOCKHOLM,*,*,<srai>Suede</srai>,europe2.aiml
+0,OUI,UN LONG WEEK END POUR LACHER PRISE ET PRENDRE L AIR LE VRAI LE TEMPS D UNE PAUSE NATURE ET CULTURE VOILA CE QUE PREVOIT CETTE ESCAPADE SUR LA COTE OUEST DE LA SUEDE VOULEZ VOUS SAVOIR LE PRIX,*,Le budget estimé pour ce voyage est de 1400€ à 1800€/personne.,europe2.aiml
+0,NON,UN LONG WEEK END POUR LACHER PRISE ET PRENDRE L AIR LE VRAI LE TEMPS D UNE PAUSE NATURE ET CULTURE VOILA CE QUE PREVOIT CETTE ESCAPADE SUR LA COTE OUEST DE LA SUEDE VOULEZ VOUS SAVOIR LE PRIX,*,Alors la date de départ pour le voyage en Suede?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN SUEDE,*,Notre séjour sera pendant 11 jours en vol direct#Comma à partir de 15 aout ;),europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN SUEDE,*,Donc l'heure de départ pour le voyage en Suede?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN SUEDE,*,Le départ sera à 11h15,europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN SUEDE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,ECOSSE,*,*,Sans doute moins expansive que Londres#Comma la capitale écossaise n’en est pas moins gaiement jeune et ouverte à l’avenir. C’est au cœur d'une campagne élégante et verdoyante qu’Edimbourg a assis son bourg médiéval puis ses fastes géorgiens#Comma qui lui ont valu une inscription au patrimoine mondial de l’UNESCO. L’identité s’y vit intimement#Comma bien arrosée de pluie et de whisky. souhaitez vous savoir le prix de ce voyage?,europe2.aiml
+0,* ECOSSE,*,*,<srai>Ecosse</srai>,europe2.aiml
+0,* EDIMBOURG,*,*,<srai>Ecosse</srai>,europe2.aiml
+0,OUI,SANS DOUTE MOINS EXPANSIVE QUE LONDRES LA CAPITALE ECOSSAISE N EN EST PAS MOINS GAIEMENT JEUNE ET OUVERTE A L AVENIR C EST AU CŒUR D UNE CAMPAGNE ELEGANTE ET VERDOYANTE QU EDIMBOURG A ASSIS SON BOURG MEDIEVAL PUIS SES FASTES GEORGIENS QUI LUI ONT VALU UNE INSCRIPTION AU PATRIMOINE MONDIAL DE L UNESCO L IDENTITE S Y VIT INTIMEMENT BIEN ARROSEE DE PLUIE ET DE WHISKY SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 1200€ à 2000€/personne.,europe2.aiml
+0,NON,SANS DOUTE MOINS EXPANSIVE QUE LONDRES LA CAPITALE ECOSSAISE N EN EST PAS MOINS GAIEMENT JEUNE ET OUVERTE A L AVENIR C EST AU CŒUR D UNE CAMPAGNE ELEGANTE ET VERDOYANTE QU EDIMBOURG A ASSIS SON BOURG MEDIEVAL PUIS SES FASTES GEORGIENS QUI LUI ONT VALU UNE INSCRIPTION AU PATRIMOINE MONDIAL DE L UNESCO L IDENTITE S Y VIT INTIMEMENT BIEN ARROSEE DE PLUIE ET DE WHISKY SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Ecosse?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN ECOSSE,*,le départ sera le 13 aout à 08h30,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN ECOSSE,*,Donc l'heure de départ pour le voyage en Ecosse?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN ECOSSE,*,à 08h30 :),europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN ECOSSE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,FINLANDE,*,*,De part et d’autre du golfe de Finlande#Comma Helsinki et Tallinn offrent l’exemple de cités européennes ouvertes aux vents du changement#Comma parce qu’elles ont de profondes racines - pour être littorales#Comma elles ne sont pas bâties sur du sable. Donc vous voulez savoir le prix de ce voyage?,europe2.aiml
+0,* FINLANDE,*,*,<srai>Finlande</srai>,europe2.aiml
+0,* HELSINKI,*,*,<srai>Finlande</srai>,europe2.aiml
+0,OUI,DE PART ET D AUTRE DU GOLFE DE FINLANDE HELSINKI ET TALLINN OFFRENT L EXEMPLE DE CITES EUROPEENNES OUVERTES AUX VENTS DU CHANGEMENT PARCE QU ELLES ONT DE PROFONDES RACINES POUR ETRE LITTORALES ELLES NE SONT PAS BATIES SUR DU SABLE DONC VOUS VOULEZ SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 1350€ à 1650€/personne.,europe2.aiml
+0,NON,DE PART ET D AUTRE DU GOLFE DE FINLANDE HELSINKI ET TALLINN OFFRENT L EXEMPLE DE CITES EUROPEENNES OUVERTES AUX VENTS DU CHANGEMENT PARCE QU ELLES ONT DE PROFONDES RACINES POUR ETRE LITTORALES ELLES NE SONT PAS BATIES SUR DU SABLE DONC VOUS VOULEZ SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Finlande?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN FINLANDE,*,Nous allons partir le 23 juillet avec le charme des ruelles de Séville puis les plaisirs de la côte#Comma une semaine tous ensemble à rythme tranquille 8 jours,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN FINLANDE,*,Donc l'heure de départ pour le voyage en Finlande?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN FINLANDE,*,Le départ sera à 09h00,europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN FINLANDE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,GRANDE BRETAGNE,*,*,Aux confins de l’Europe#Comma face à l’Amérique#Comma l’Ecosse. Un pays partagé entre le monde des basses terres#Comma les Lowlands#Comma et celui des hauts plateaux#Comma les Highlands#Comma entre la culture anglo-saxonne et la culture gaélique. souhaitez vous savoir le prix de ce voyage?,europe2.aiml
+0,* GRANDE BRETAGNE,*,*,<srai>Grande Bretagne</srai>,europe2.aiml
+0,OUI,AUX CONFINS DE L EUROPE FACE A L AMERIQUE L ECOSSE UN PAYS PARTAGE ENTRE LE MONDE DES BASSES TERRES LES LOWLANDS ET CELUI DES HAUTS PLATEAUX LES HIGHLANDS ENTRE LA CULTURE ANGLO SAXONNE ET LA CULTURE GAELIQUE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 2600€ à 3500€/personne.,europe2.aiml
+0,NON,AUX CONFINS DE L EUROPE FACE A L AMERIQUE L ECOSSE UN PAYS PARTAGE ENTRE LE MONDE DES BASSES TERRES LES LOWLANDS ET CELUI DES HAUTS PLATEAUX LES HIGHLANDS ENTRE LA CULTURE ANGLO SAXONNE ET LA CULTURE GAELIQUE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage au Grande Bretagne?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE AU GRANDE BRETAGNE,*,Nous allons partir le 11 juin pour 5 jours,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE AU GRANDE BRETAGNE,*,Donc l'heure de départ pour le voyage au Grande Bretagne?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE AU GRANDE BRETAGNE,*,Le départ sera à 13h10,europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE AU GRANDE BRETAGNE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,HONGRIE,*,*,Serpentée par le Danube#Comma Budapest a englouti ses souffrances dans ses eaux paisibles et rêveuses. Mélancolique à ses heures brumeuses ou agitée dans ses nuits d'ivresse#Comma la capitale se dévoile au fil de ses larges avenues ou dans le creux de ses ruelles pavées. Souhaitez vous savoir le prix de ce voyage?,europe2.aiml
+0,* HONGRIE,*,*,<srai>Hongrie</srai>,europe2.aiml
+0,* BUDAPEST,*,*,<srai>Hongrie</srai>,europe2.aiml
+0,OUI,SERPENTEE PAR LE DANUBE BUDAPEST A ENGLOUTI SES SOUFFRANCES DANS SES EAUX PAISIBLES ET REVEUSES MELANCOLIQUE A SES HEURES BRUMEUSES OU AGITEE DANS SES NUITS D IVRESSE LA CAPITALE SE DEVOILE AU FIL DE SES LARGES AVENUES OU DANS LE CREUX DE SES RUELLES PAVEES SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 700€ à 900€/personne.,europe2.aiml
+0,NON,SERPENTEE PAR LE DANUBE BUDAPEST A ENGLOUTI SES SOUFFRANCES DANS SES EAUX PAISIBLES ET REVEUSES MELANCOLIQUE A SES HEURES BRUMEUSES OU AGITEE DANS SES NUITS D IVRESSE LA CAPITALE SE DEVOILE AU FIL DE SES LARGES AVENUES OU DANS LE CREUX DE SES RUELLES PAVEES SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Hongrie?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN HONGRIE,*,le départ sera le 13 aout à 08h30,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN HONGRIE,*,Donc l'heure de départ pour le voyage en Hongrie?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN HONGRIE,*,à 08h30 :),europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN HONGRIE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,IRLANDE,*,*,L’idée de cette échappée hors saison est de vivre en quelques jours une Irlande au plus près de celle que l’on s’imagine#Comma et que l’on espère. Souhaitez vous savoir le prix de ce voyage?,europe2.aiml
+0,* IRLANDE,*,*,<srai>Irlande</srai>,europe2.aiml
+0,* DUBLIN,*,*,<srai>Irlande</srai>,europe2.aiml
+0,OUI,L IDEE DE CETTE ECHAPPEE HORS SAISON EST DE VIVRE EN QUELQUES JOURS UNE IRLANDE AU PLUS PRES DE CELLE QUE L ON S IMAGINE ET QUE L ON ESPERE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 1500€ à 1800€/personne#Comma le vol est compris.,europe2.aiml
+0,NON,L IDEE DE CETTE ECHAPPEE HORS SAISON EST DE VIVRE EN QUELQUES JOURS UNE IRLANDE AU PLUS PRES DE CELLE QUE L ON S IMAGINE ET QUE L ON ESPERE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Irlande?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN IRLANDE,*,Nous proposons que le départ soit le 02 septembre à 17h00,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN IRLANDE,*,Donc l'heure de départ pour le voyage en Irlande?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN IRLANDE,*,ver 17h00 :),europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN IRLANDE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,SLOVENIE,*,*,Un voyage pour ceux qui ont peu de temps mais beaucoup de curiosité à revendre : sur un grand week-end#Comma vous aurez ici l'occasion de flâner parmi les ruelles braoques et les cafés en terrasse de Ljubljana avant de goûter au grand air des Alpes Juliennes. Voulez vous savoir le prix?,europe2.aiml
+0,* SLOVENIE,*,*,<srai>Slovenie</srai>,europe2.aiml
+0,* LJUBLJANA,*,*,<srai>Slovenie</srai>,europe2.aiml
+0,OUI,UN VOYAGE POUR CEUX QUI ONT PEU DE TEMPS MAIS BEAUCOUP DE CURIOSITE A REVENDRE SUR UN GRAND WEEK END VOUS AUREZ ICI L OCCASION DE FLANER PARMI LES RUELLES BRAOQUES ET LES CAFES EN TERRASSE DE LJUBLJANA AVANT DE GOUTER AU GRAND AIR DES ALPES JULIENNES VOULEZ VOUS SAVOIR LE PRIX,*,Le budget estimé pour ce voyage est de 900€ à 1300€/personne.,europe2.aiml
+0,NON,UN VOYAGE POUR CEUX QUI ONT PEU DE TEMPS MAIS BEAUCOUP DE CURIOSITE A REVENDRE SUR UN GRAND WEEK END VOUS AUREZ ICI L OCCASION DE FLANER PARMI LES RUELLES BRAOQUES ET LES CAFES EN TERRASSE DE LJUBLJANA AVANT DE GOUTER AU GRAND AIR DES ALPES JULIENNES VOULEZ VOUS SAVOIR LE PRIX,*,Alors la date de départ pour le voyage en Slovenie?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN SLOVENIE,*,C'est pour 5 jours et le départ est le 12 mai,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN SLOVENIE,*,Donc l'heure de départ pour le voyage en Slovenie?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN SLOVENIE,*,Le départ sera à 20h50,europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN SLOVENIE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,SLOVAQUIE,*,*,Ce territoire neuf s'est vu officialisé "République Slovaque" en 1993 avant de répondre massivement au "oui" de l'Europe lors du référendum de 2003 : il était temps d'aller découvrir ce petit pays lové au coeur de l'Europe ! Souhaitez vous savoir le prix de ce voyage?,europe2.aiml
+0,* SLOVAQUIE,*,*,<srai>Slovaquie</srai>,europe2.aiml
+0,* BRATISLAVA,*,*,<srai>Slovaquie</srai>,europe2.aiml
+0,OUI,CE TERRITOIRE NEUF S EST VU OFFICIALISE REPUBLIQUE SLOVAQUE EN 1993 AVANT DE REPONDRE MASSIVEMENT AU OUI DE L EUROPE LORS DU REFERENDUM DE 2003 IL ETAIT TEMPS D ALLER DECOUVRIR CE PETIT PAYS LOVE AU COEUR DE L EUROPE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 900€ à 1100€/personne.,europe2.aiml
+0,NON,CE TERRITOIRE NEUF S EST VU OFFICIALISE REPUBLIQUE SLOVAQUE EN 1993 AVANT DE REPONDRE MASSIVEMENT AU OUI DE L EUROPE LORS DU REFERENDUM DE 2003 IL ETAIT TEMPS D ALLER DECOUVRIR CE PETIT PAYS LOVE AU COEUR DE L EUROPE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Slovaquie?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN SLOVAQUIE,*,Le départ est le 12 juin pour 4 jours.,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN SLOVAQUIE,*,Donc l'heure de départ pour le voyage en Slovaquie?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN SLOVAQUIE,*,C'est à 23h30 :),europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN SLOVAQUIE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,SERBIE,*,*,Les Balkans#Comma c’est compliqué. Pas tellement. Moins qu’avant en tout cas. Pour pas mal de mauvaises raisons#Comma mais c’est ainsi. Il faut faire comme les Serbes#Comma désormais regarder en avant plutôt qu’en arrière. Et c’est le moment d’aller voir. Donc vous voulez savoir le prix de ce voyage?,europe2.aiml
+0,* SERBIE,*,*,<srai>Serbie</srai>,europe2.aiml
+0,* BELGRADE,*,*,<srai>Serbie</srai>,europe2.aiml
+0,OUI,LES BALKANS C EST COMPLIQUE PAS TELLEMENT MOINS QU AVANT EN TOUT CAS POUR PAS MAL DE MAUVAISES RAISONS MAIS C EST AINSI IL FAUT FAIRE COMME LES SERBES DESORMAIS REGARDER EN AVANT PLUTOT QU EN ARRIERE ET C EST LE MOMENT D ALLER VOIR DONC VOUS VOULEZ SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 1100€ à 1400€/personne.,europe2.aiml
+0,NON,LES BALKANS C EST COMPLIQUE PAS TELLEMENT MOINS QU AVANT EN TOUT CAS POUR PAS MAL DE MAUVAISES RAISONS MAIS C EST AINSI IL FAUT FAIRE COMME LES SERBES DESORMAIS REGARDER EN AVANT PLUTOT QU EN ARRIERE ET C EST LE MOMENT D ALLER VOIR DONC VOUS VOULEZ SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Serbie?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN SERBIE,*,Le départ est le 09 aout pour 4 jours,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN SERBIE,*,Donc l'heure de départ pour le voyage en Serbie?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN SERBIE,*,Le départ sera à 09h00,europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN SERBIE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,RUSSIE,*,*,Saint-Pétersbourg est une ville jeune#Comma et turbulente dans les alignements impeccables de ses palais. Capitale culturelle#Comma elle l’a été très tôt et constamment : aujourd’hui encore on y trouve curiosité#Comma goût de risquer#Comma imagination#Comma élan. Souhaitez vous savoir le prix de ce voyage?,europe2.aiml
+0,* RUSSIE,*,*,<srai>Russie</srai>,europe2.aiml
+0,* MOSCOU,*,*,<srai>Russie</srai>,europe2.aiml
+0,OUI,SAINT PETERSBOURG EST UNE VILLE JEUNE ET TURBULENTE DANS LES ALIGNEMENTS IMPECCABLES DE SES PALAIS CAPITALE CULTURELLE ELLE L A ETE TRES TOT ET CONSTAMMENT AUJOURD HUI ENCORE ON Y TROUVE CURIOSITE GOUT DE RISQUER IMAGINATION ELAN SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 1000€ à 1300€/personne.,europe2.aiml
+0,NON,SAINT PETERSBOURG EST UNE VILLE JEUNE ET TURBULENTE DANS LES ALIGNEMENTS IMPECCABLES DE SES PALAIS CAPITALE CULTURELLE ELLE L A ETE TRES TOT ET CONSTAMMENT AUJOURD HUI ENCORE ON Y TROUVE CURIOSITE GOUT DE RISQUER IMAGINATION ELAN SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Russie?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN RUSSIE,*,Nous allons partir le 27 juin pour 9 jours,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN RUSSIE,*,Donc l'heure de départ pour le voyage en Russie?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN RUSSIE,*,Le départ sera à 13h10,europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN RUSSIE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,ROUMANIE,*,*,Certaines capitales de l'Est se réveillent un peu plus tard que les autres.... Mais quel réveil! Les façades Belle-Epoque se redévoilent#Comma les voitures se font plus rutilantes#Comma les boutiques ouvrent pignon sur rue et les langues se délient : il est temps de venir palper le pouls de la capitale roumaine! Souhaitez vous savoir le prix de ce voyage?,europe2.aiml
+0,* ROUMANIE,*,*,<srai>Roumanie</srai>,europe2.aiml
+0,* BUCAREST,*,*,<srai>Roumanie</srai>,europe2.aiml
+0,OUI,CERTAINES CAPITALES DE L EST SE REVEILLENT UN PEU PLUS TARD QUE LES AUTRES MAIS QUEL REVEIL LES FACADES BELLE EPOQUE SE REDEVOILENT LES VOITURES SE FONT PLUS RUTILANTES LES BOUTIQUES OUVRENT PIGNON SUR RUE ET LES LANGUES SE DELIENT IL EST TEMPS DE VENIR PALPER LE POULS DE LA CAPITALE ROUMAINE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 600€ à 800€/personne.,europe2.aiml
+0,NON,CERTAINES CAPITALES DE L EST SE REVEILLENT UN PEU PLUS TARD QUE LES AUTRES MAIS QUEL REVEIL LES FACADES BELLE EPOQUE SE REDEVOILENT LES VOITURES SE FONT PLUS RUTILANTES LES BOUTIQUES OUVRENT PIGNON SUR RUE ET LES LANGUES SE DELIENT IL EST TEMPS DE VENIR PALPER LE POULS DE LA CAPITALE ROUMAINE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Roumanie?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN ROUMANIE,*,le départ sera le 13 aout à 13h55,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN ROUMANIE,*,Donc l'heure de départ pour le voyage en Roumanie?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN ROUMANIE,*,ça serait à  13h55 ;),europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN ROUMANIE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,NORVEGE,*,*,Beaucoup d’activités et de paysages différents se dévoilent au fil de cet itinéraire plein de surprises : des animaux sauvages#Comma une balade en zodiac#Comma un petit train panoramique et des vikings en chair et en os... Un voyage amusant et rythmé pour découvrir les splendides horizons des fjords et leurs vallées pittoresques. souhaitez vous savoir le prix de ce voyage?,europe2.aiml
+0,* NORVEGE,*,*,<srai>Norvege</srai>,europe2.aiml
+0,* OSLO,*,*,<srai>Norvege</srai>,europe2.aiml
+0,OUI,BEAUCOUP D ACTIVITES ET DE PAYSAGES DIFFERENTS SE DEVOILENT AU FIL DE CET ITINERAIRE PLEIN DE SURPRISES DES ANIMAUX SAUVAGES UNE BALADE EN ZODIAC UN PETIT TRAIN PANORAMIQUE ET DES VIKINGS EN CHAIR ET EN OS UN VOYAGE AMUSANT ET RYTHME POUR DECOUVRIR LES SPLENDIDES HORIZONS DES FJORDS ET LEURS VALLEES PITTORESQUES SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 1900€ à 2300€/personne.,europe2.aiml
+0,NON,BEAUCOUP D ACTIVITES ET DE PAYSAGES DIFFERENTS SE DEVOILENT AU FIL DE CET ITINERAIRE PLEIN DE SURPRISES DES ANIMAUX SAUVAGES UNE BALADE EN ZODIAC UN PETIT TRAIN PANORAMIQUE ET DES VIKINGS EN CHAIR ET EN OS UN VOYAGE AMUSANT ET RYTHME POUR DECOUVRIR LES SPLENDIDES HORIZONS DES FJORDS ET LEURS VALLEES PITTORESQUES SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage au Norvege?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE AU NORVEGE,*,Le départ sera le 10 juil à 00h30,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE AU NORVEGE,*,Donc l'heure de départ pour le voyage au Norvege?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE AU NORVEGE,*,à 08h30 :),europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE AU NORVEGE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,POLOGNE,*,*,Le quartier des affaires de Varsovie#Comma avec ses buildings de verre et de métal#Comma est le signe du redémarrage de la capitale polonaise ces vingt dernières années. Il fallait faire pièce à l’écrasant palais de la Culture#Comma que les soviétiques avaient offert au pays dans les red fifties. Donc vous voulez savoir le prix de ce voyage?,europe2.aiml
+0,* POLOGNE,*,*,<srai>Pologne</srai>,europe2.aiml
+0,* VARSOVIE,*,*,<srai>Pologne</srai>,europe2.aiml
+0,OUI,LE QUARTIER DES AFFAIRES DE VARSOVIE AVEC SES BUILDINGS DE VERRE ET DE METAL EST LE SIGNE DU REDEMARRAGE DE LA CAPITALE POLONAISE CES VINGT DERNIERES ANNEES IL FALLAIT FAIRE PIECE A L ECRASANT PALAIS DE LA CULTURE QUE LES SOVIETIQUES AVAIENT OFFERT AU PAYS DANS LES RED FIFTIES DONC VOUS VOULEZ SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 900€ à 1100€/personne.,europe2.aiml
+0,NON,LE QUARTIER DES AFFAIRES DE VARSOVIE AVEC SES BUILDINGS DE VERRE ET DE METAL EST LE SIGNE DU REDEMARRAGE DE LA CAPITALE POLONAISE CES VINGT DERNIERES ANNEES IL FALLAIT FAIRE PIECE A L ECRASANT PALAIS DE LA CULTURE QUE LES SOVIETIQUES AVAIENT OFFERT AU PAYS DANS LES RED FIFTIES DONC VOUS VOULEZ SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Pologne?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN POLOGNE,*,Nous allons partir le 23 juillet pour 6 jours,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN POLOGNE,*,Donc l'heure de départ pour le voyage en Pologne?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN POLOGNE,*,Le départ sera à 05h00 du matin ;),europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN POLOGNE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,MONTENEGRO,*,*,Ce sont des logiques d’influence et de puissance qui#Comma comme ailleurs#Comma ont fait l’histoire et mis de beaux remparts autour des villes de la région. Souhaitez vous savoir le prix de ce voyage?,europe2.aiml
+0,* MONTENEGRO,*,*,<srai>Montenegro</srai>,europe2.aiml
+0,* PODGORICA,*,*,<srai>Montenegro</srai>,europe2.aiml
+0,OUI,CE SONT DES LOGIQUES D INFLUENCE ET DE PUISSANCE QUI COMME AILLEURS ONT FAIT L HISTOIRE ET MIS DE BEAUX REMPARTS AUTOUR DES VILLES DE LA REGION SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 1700€ à 2100€/personne.,europe2.aiml
+0,NON,CE SONT DES LOGIQUES D INFLUENCE ET DE PUISSANCE QUI COMME AILLEURS ONT FAIT L HISTOIRE ET MIS DE BEAUX REMPARTS AUTOUR DES VILLES DE LA REGION SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage au Montenegro?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE AU MONTENEGRO,*,Nous allons partir le 11 juin pour 5 jours,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE AU MONTENEGRO,*,Donc l'heure de départ pour le voyage au Montenegro?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE AU MONTENEGRO,*,Le départ sera à 13h10,europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE AU MONTENEGRO,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,MACEDOINE,*,*,De Skopje#Comma la capitale macédonienne#Comma à Ohrid#Comma un petit paradis pas trop divulgué#Comma avec des escapades à Pristina au Kosovo et à Pogradec en Albanie#Comma on semble ne pas devoir reprendre son souffle ! Pourtant#Comma les petites places ombragées de Skopje ou les berges lumineuses du lac d’Ohrid#Comma vous offriront l’occasion de dilater le temps du voyage. Souhaitez vous savoir le prix de ce voyage?,europe2.aiml
+0,* MACEDOINE,*,*,<srai>Macedoine</srai>,europe2.aiml
+0,* SKOPJE,*,*,<srai>Macedoine</srai>,europe2.aiml
+0,OUI,DE SKOPJE LA CAPITALE MACEDONIENNE A OHRID UN PETIT PARADIS PAS TROP DIVULGUE AVEC DES ESCAPADES A PRISTINA AU KOSOVO ET A POGRADEC EN ALBANIE ON SEMBLE NE PAS DEVOIR REPRENDRE SON SOUFFLE POURTANT LES PETITES PLACES OMBRAGEES DE SKOPJE OU LES BERGES LUMINEUSES DU LAC D OHRID VOUS OFFRIRONT L OCCASION DE DILATER LE TEMPS DU VOYAGE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 1400€ à 1800€/personne.,europe2.aiml
+0,NON,DE SKOPJE LA CAPITALE MACEDONIENNE A OHRID UN PETIT PARADIS PAS TROP DIVULGUE AVEC DES ESCAPADES A PRISTINA AU KOSOVO ET A POGRADEC EN ALBANIE ON SEMBLE NE PAS DEVOIR REPRENDRE SON SOUFFLE POURTANT LES PETITES PLACES OMBRAGEES DE SKOPJE OU LES BERGES LUMINEUSES DU LAC D OHRID VOUS OFFRIRONT L OCCASION DE DILATER LE TEMPS DU VOYAGE SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Macedoine?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN MACEDOINE,*,le départ sera le 11 avril à 18h30,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN MACEDOINE,*,Donc l'heure de départ pour le voyage en Macedoine?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN MACEDOINE,*,à 08h30 :),europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN MACEDOINE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,ISLANDE,*,*,L’essence de ce voyage ? Prendre toute la mesure - et la démesure - des étendues sauvages d’Islande à travers une boucle complète du pays#Comma et ce en bénéficiant de nuitées déjà bloquées dans des adresses privilégiées pour leur situation et leur confort. Souhaitez vous savoir le prix de ce voyage?,europe2.aiml
+0,* ISLANDE,*,*,<srai>Islande</srai>,europe2.aiml
+0,* REYKJAVIK,*,*,<srai>Islande</srai>,europe2.aiml
+0,OUI,L ESSENCE DE CE VOYAGE PRENDRE TOUTE LA MESURE ET LA DEMESURE DES ETENDUES SAUVAGES D ISLANDE A TRAVERS UNE BOUCLE COMPLETE DU PAYS ET CE EN BENEFICIANT DE NUITEES DEJA BLOQUEES DANS DES ADRESSES PRIVILEGIEES POUR LEUR SITUATION ET LEUR CONFORT SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Le budget estimé pour ce voyage est de 4600€ à 5700€/personne.,europe2.aiml
+0,NON,L ESSENCE DE CE VOYAGE PRENDRE TOUTE LA MESURE ET LA DEMESURE DES ETENDUES SAUVAGES D ISLANDE A TRAVERS UNE BOUCLE COMPLETE DU PAYS ET CE EN BENEFICIANT DE NUITEES DEJA BLOQUEES DANS DES ADRESSES PRIVILEGIEES POUR LEUR SITUATION ET LEUR CONFORT SOUHAITEZ VOUS SAVOIR LE PRIX DE CE VOYAGE,*,Alors la date de départ pour le voyage en Islande?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN ISLANDE,*,Nous proposons que le départ soit le 19 septembre à 13h10.,europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN ISLANDE,*,Donc l'heure de départ pour le voyage en Islande?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN ISLANDE,*,ver 13h10 :),europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN ISLANDE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml
+0,LAPONIE,*,*,Cette année#Comma on prend le large et on s'envole au pays du Père Noël pour mieux goûter à la magie des fêtes de fin d’année dans le grand blanc de la Laponie. Conçu pour vivre le meilleur de la Finlande à l’heure d’hiver et plaire au plus grand nombre#Comma ce séjour conjugue l'air scandinave#Comma l'ivresse des grands espaces et un programme adapté à tous. Voulez vous savoir le prix?,europe2.aiml
+0,* LAPONIE,*,*,<srai>Laponie</srai>,europe2.aiml
+0,* ROVANIEMI,*,*,<srai>Laponie</srai>,europe2.aiml
+0,OUI,CETTE ANNEE ON PREND LE LARGE ET ON S ENVOLE AU PAYS DU PERE NOEL POUR MIEUX GOUTER A LA MAGIE DES FETES DE FIN D ANNEE DANS LE GRAND BLANC DE LA LAPONIE CONCU POUR VIVRE LE MEILLEUR DE LA FINLANDE A L HEURE D HIVER ET PLAIRE AU PLUS GRAND NOMBRE CE SEJOUR CONJUGUE L AIR SCANDINAVE L IVRESSE DES GRANDS ESPACES ET UN PROGRAMME ADAPTE A TOUS VOULEZ VOUS SAVOIR LE PRIX,*,Le budget estimé pour ce voyage est de 2600€ à 3800€ adulte et de 2200€/enfant.,europe2.aiml
+0,NON,CETTE ANNEE ON PREND LE LARGE ET ON S ENVOLE AU PAYS DU PERE NOEL POUR MIEUX GOUTER A LA MAGIE DES FETES DE FIN D ANNEE DANS LE GRAND BLANC DE LA LAPONIE CONCU POUR VIVRE LE MEILLEUR DE LA FINLANDE A L HEURE D HIVER ET PLAIRE AU PLUS GRAND NOMBRE CE SEJOUR CONJUGUE L AIR SCANDINAVE L IVRESSE DES GRANDS ESPACES ET UN PROGRAMME ADAPTE A TOUS VOULEZ VOUS SAVOIR LE PRIX,*,Alors la date de départ pour le voyage en Laponie?,europe2.aiml
+0,OUI,ALORS LA DATE DE DEPART POUR LE VOYAGE EN LAPONIE,*,Du 22 au 27 décembre 2018 (6 jours/5 nuits),europe2.aiml
+0,NON,ALORS LA DATE DE DEPART POUR LE VOYAGE EN LAPONIE,*,Donc l'heure de départ pour le voyage en Laponie?,europe2.aiml
+0,OUI,DONC L HEURE DE DEPART POUR LE VOYAGE EN LAPONIE,*,Le départ sera à 22h10 :),europe2.aiml
+0,NON,DONC L HEURE DE DEPART POUR LE VOYAGE EN LAPONIE,*,Ok#Comma est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?,europe2.aiml

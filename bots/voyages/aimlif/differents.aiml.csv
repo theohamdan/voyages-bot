@@ -1,0 +1,26 @@
+0,* PEUR,*,*,<random>#Newline			<li>Ah dommage#Comma parce que tous nos voyages sont en avion</li>#Newline			<li>hmm#Comma nos voyages pendant l'été sont uniquement en avion</li>#Newline			</random>,differents.aiml
+0,* PEUR *,*,*,<srai>* peur</srai>,differents.aiml
+0,TRAIN *,*,*,<srai>* peur</srai>,differents.aiml
+0,* TRAIN *,*,*,<srai>* peur</srai>,differents.aiml
+0,* TRAIN,*,*,<srai>* peur</srai>,differents.aiml
+0,* BATEAU,*,*,<srai>* peur</srai>,differents.aiml
+0,BATEAU *,*,*,<srai>* peur</srai>,differents.aiml
+0,* BATEAU *,*,*,<srai>* peur</srai>,differents.aiml
+0,* CHER,*,*,<srai>Cher</srai>,differents.aiml
+0,CHER *,*,*,<srai>Cher</srai>,differents.aiml
+0,* CHER *,*,*,<srai>Cher</srai>,differents.aiml
+0,SAY *,*,*,<star/>#Newline      #Newline      <learn>#Newline        <category>#Newline          <pattern><eval><input index="2"/></eval></pattern>#Newline            <template>#Newline              <eval><star/></eval>.#Newline            </template>#Newline        </category>#Newline      </learn>,differents.aiml
+0,DITES *,*,*,<star/>#Newline      #Newline      <learn>#Newline        <category>#Newline          <pattern><eval><input index="2"/></eval></pattern>#Newline            <template>#Newline              <eval><star/></eval>.#Newline            </template>#Newline        </category>#Newline      </learn>,differents.aiml
+0,CON,*,*,<random>#Newline			<li>Je ne peux supporter des gens me parlent comme ça</li>#Newline			<li>Soyez polis svp</li>#Newline			<li>Pourquoi vous me parlez comme ça?</li>#Newline			<li>Mais quelle est la raison de me parler comme ça?</li>#Newline			</random>,differents.aiml
+0,CON *,*,*,<srai>Con</srai>,differents.aiml
+0,* CON *,*,*,<srai>Con</srai>,differents.aiml
+0,* CHIANT,*,*,<srai>Con</srai>,differents.aiml
+0,* CONNARD,*,*,<srai>Con</srai>,differents.aiml
+0,* SPECE DE,*,*,<srai>Con</srai>,differents.aiml
+0,* FILS DE,*,*,<srai>Con</srai>,differents.aiml
+0,FILS DE *,*,*,<srai>Con</srai>,differents.aiml
+0,* FILS DE *,*,*,<srai>Con</srai>,differents.aiml
+0,* SERVEZ À RIEN,*,*,<srai>Con</srai>,differents.aiml
+0,CASSEZ VOUS,*,*,<srai>Con</srai>,differents.aiml
+0,MERDE,*,*,<srai>Con</srai>,differents.aiml
+0,PUTAIN,*,*,<srai>Con</srai>,differents.aiml

@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+
+<!-- Argentine -->
+<category>
+      <pattern>Argentine</pattern>
+      <template>Franchement je valide, mais quand on sort de l'Europe nos vpyages seront évidement un peu plus cher, cette année notre voyage serait en juillet pour les milongas, les vignobles, les chutes, trois tempos pour vivre l’Argentine à l’heure de l’hiver austral 15 jours.. Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+
+   <category>
+      <pattern>* Argentine</pattern>
+      <template><srai>Argentine</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>franchement je valide mais quand on sort de l europe nos vpyages seront evidement un peu plus cher cette annee notre voyage serait en juillet pour les milongas les vignobles les chutes trois tempos pour vivre l argentine a l heure de l hiver austral 15 jours souhaitez vous savoir le prix de ce voyage</that>
+             <template>Du coup ça vous coutera de 5000 à 5800€ par personne</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>franchement je valide mais quand on sort de l europe nos vpyages seront evidement un peu plus cher cette annee notre voyage serait en juillet pour les milongas les vignobles les chutes trois tempos pour vivre l argentine a l heure de l hiver austral 15 jours souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Argentine?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en argentine</that>
+             <template>Le départ sera le 27 juillet</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en argentine</that>
+             <template>Donc l'heure de départ pour le voyage en Argentine?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en argentine</that>
+             <template>Pour les voyages hors l'Europe, nous vous dirons l'heure du départ une semaine avant votre voyage.</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en argentine</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+
+
+        <!-- Belize -->
+<category>
+      <pattern>Belize</pattern>
+      <template>Bon, cette année notre voyage serait en juin, le Belize "easy" en famille, des paysages spectaculaires entre vestiges mayas, jungle dense et mer des Caraïbes, 12 jours. Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+
+   <category>
+      <pattern>* Belize</pattern>
+      <template><srai>Belize</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>bon cette annee notre voyage serait en juin le belize easy en famille des paysages spectaculaires entre vestiges mayas jungle dense et mer des caraibes 12 jours souhaitez vous savoir le prix de ce voyage</that>
+             <template>De 4100 à 5000€ par personne</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>bon cette annee notre voyage serait en juin le belize easy en famille des paysages spectaculaires entre vestiges mayas jungle dense et mer des caraibes 12 jours souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage au Belize?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage au belize</that>
+             <template>Le départ sera le 16 juin</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage au belize</that>
+             <template>Donc l'heure de départ pour le voyage au Belize?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage au belize</that>
+             <template>Pour les voyages hors l'Europe, nous vous dirons l'heure du départ une semaine avant votre voyage.</template>
+        </category>
+
+
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage au belize</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+
+
+<!-- Bolivie -->
+
+        <category>
+      <pattern>Bolivie</pattern>
+      <template>Super, nous vous avons préparé des belles surprises cette année pour la Bolivie Du Pérou au Chili, en passant par la Bolivie, ce voyage révèle la splendeur et la diversité d’une nature épique, il y aura également un grand tour dans les Andes, où se rencontrent hauts-lieux incas, déserts d’altitude, flamants et madones. Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+
+   <category>
+      <pattern>* Bolivie</pattern>
+      <template><srai>Bolivie</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>super nous vous avons prepare des belles surprises cette annee pour la bolivie du perou au chili en passant par la bolivie ce voyage revele la splendeur et la diversite d une nature epique il y aura egalement un grand tour dans les andes ou se rencontrent hauts lieux incas deserts d altitude flamants et madones souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le prix sera un peu plus élevée cette année donc de 7400 à 9200€ par personne et pour 20 jours</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>super nous vous avons prepare des belles surprises cette annee pour la bolivie du perou au chili en passant par la bolivie ce voyage revele la splendeur et la diversite d une nature epique il y aura egalement un grand tour dans les andes ou se rencontrent hauts lieux incas deserts d altitude flamants et madones souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Bolivie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en bolivie</that>
+             <template>Le départ sera le 07 aout</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en bolivie</that>
+             <template>Donc l'heure de départ pour le voyage en Bolivie?</template>
+        </category>
+
+
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en bolivie</that>
+             <template>Pour les voyages hors l'Europe, nous vous dirons l'heure du départ une semaine avant votre voyage.</template>
+        </category>
+
+
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en bolivie</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+
+
+         <category>
+      <pattern>Mexique</pattern>
+      <template>WOW, c'est vraiment une bonne idée, ce voyage conjugue deux visages des Caraïbes : l’énergie de La Havane, l’esprit hippie chic de Tulum. Depuis la signature des accords historiques entre Barack Obama et Raul Castro, La Havane change : partout, les galeries d’art, les bars électro et les rooftops fleurissent. Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+
+   <category>
+      <pattern>* Mexique</pattern>
+      <template><srai>Mexique</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>wow c est vraiment une bonne idee ce voyage conjugue deux visages des caraibes l energie de la havane l esprit hippie chic de tulum depuis la signature des accords historiques entre barack obama et raul castro la havane change partout les galeries d art les bars electro et les rooftops fleurissent souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le prix sera de 5800 à 7300€ par personne et pour 10 jours</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>wow c est vraiment une bonne idee ce voyage conjugue deux visages des caraibes l energie de la havane l esprit hippie chic de tulum depuis la signature des accords historiques entre barack obama et raul castro la havane change partout les galeries d art les bars electro et les rooftops fleurissent souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage au Mexique?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage au mexique</that>
+             <template>Le départ sera le 08 septembre</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage au mexique</that>
+             <template>Donc l'heure de départ pour le voyage au Mexique?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage au mexique</that>
+             <template>Pour les voyages hors l'Europe, nous vous dirons l'heure du départ une semaine avant votre voyage.</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage au mexique</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+
+        <category>
+      <pattern>Canada</pattern>
+      <template>Ahh c'est ma déstination préferée, c'est vraiment parfait là-bas, Notre best of Québec, pour les îles, les villages, les fjords et les grandes villes sympathiques, vols Air France, concierge francophone et WIFI gratuit où que vous soyez : nos + Voyageurs et ça serait en juillet. Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+
+   <category>
+      <pattern>* Canada</pattern>
+      <template><srai>Canada</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ahh c est ma destination preferee c est vraiment parfait la bas notre best of quebec pour les iles les villages les fjords et les grandes villes sympathiques vols air france concierge francophone et wifi gratuit ou que vous soyez nos voyageurs et ca serait en juillet souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 4200€ à 5600€ par personne et pour 16 jours</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ahh c est ma destination preferee c est vraiment parfait la bas notre best of quebec pour les iles les villages les fjords et les grandes villes sympathiques vols air france concierge francophone et wifi gratuit ou que vous soyez nos voyageurs et ca serait en juillet souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage au Canada?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage au canada</that>
+             <template>Le départ sera le 17 juillet</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage au canada</that>
+             <template>Donc l'heure de départ pour le voyage au Canada?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage au canada</that>
+             <template>Pour les voyages hors l'Europe, nous vous dirons l'heure du départ une semaine avant votre voyage.</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage au canada</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+</aiml>

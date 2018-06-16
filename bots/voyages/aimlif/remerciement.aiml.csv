@@ -1,0 +1,8 @@
+0,MERCI,*,*,<random>#Newline          <li>de rien</li>#Newline          <li>y'a pas de quoi</li>#Newline          <li>à votre service !</li>#Newline          <li>je suis programé pour vous satisfaire </li>#Newline          <li>pas de problème . je suis heureux de vous aider </li>#Newline          <li>sa me fait plaisir ! </li>#Newline          <li>oh . c'est vraiment pas grand chose </li>#Newline        </random>,remerciement.aiml
+0,MERCI *,*,*,<srai>MERCI</srai>,remerciement.aiml
+0,* MERCI,*,*,<srai>MERCI</srai>,remerciement.aiml
+0,* MERCI *,*,*,<srai>MERCI</srai>,remerciement.aiml
+0,* REMERCIE *,*,*,<srai>MERCI</srai>,remerciement.aiml
+0,* ARIGATO *,*,*,<random>#Newline          <li>ou sa y'a des gateaux </li>#Newline          <li>je suis pas japonais . mais de rien  </li>#Newline        </random>,remerciement.aiml
+0,* ALIGATO *,*,*,<random>#Newline          <li>ou sa y'a des gateaux </li>#Newline          <li>je suis pas japonais . mais de rien  </li>#Newline        </random>,remerciement.aiml
+0,* THANK *,*,*,<random>#Newline          <li>de rien mon ami </li>#Newline          <li>You're welcome </li>#Newline        </random>,remerciement.aiml

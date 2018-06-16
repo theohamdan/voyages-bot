@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+    <category>
+        <pattern>* capitale de *</pattern>
+        <template>D'après mes recherches c'est <map name="capitaux"><star index="2"/></map></template>
+    </category>
+
+</aiml>

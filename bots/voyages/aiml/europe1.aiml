@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<!-- LES ILES GRECQUE -->
+
+
+<category>
+      <pattern>Les iles Grecque</pattern>
+      <template>Un super bon choix, cette année nous irons au Santorin, lorsque le calme revint, Santorin, auparavant presque ronde, ne formait plus qu un croissant de lune, enserrant une caldeira ennoyée de 83 km, une des plus vastes au monde. Voulez vous savoir le prix?
+      </template>
+   </category>
+
+   <category>
+      <pattern>* Les iles Grecque</pattern>
+      <template><srai>Les iles Grecque</srai></template>
+   </category>
+
+   <category>
+      <pattern>ile *</pattern>
+      <template><srai>Les iles Grecque</srai></template>
+   </category>
+
+      <category>
+      <pattern>Grece</pattern>
+      <template><srai>Les iles Grecque</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Grece</pattern>
+      <template><srai>Les iles Grecque</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>un super bon choix cette annee nous irons au santorin lorsque le calme revint santorin auparavant presque ronde ne formait plus qu un croissant de lune enserrant une caldeira ennoyee de 83 km une des plus vastes au monde voulez vous savoir le prix</that>
+             <template>Pour ce voyage le prix sera de 1800 à 2000 Euros par personne</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>un super bon choix cette annee nous irons au santorin lorsque le calme revint santorin auparavant presque ronde ne formait plus qu un croissant de lune enserrant une caldeira ennoyee de 83 km une des plus vastes au monde voulez vous savoir le prix</that>
+             <template>Alors la date de départ pour le voyage en Grece?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en grece</that>
+             <template>Notre séjour sera pendant 11 jours en vol direct, à partir de 15 aout ;)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en grece</that>
+             <template>Donc l'heure de départ pour le voyage en Grece?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en grece</that>
+             <template>Le départ sera à 11h15</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en grece</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+<!-- PORTUGAL -->
+
+<category>
+      <pattern>Portugal</pattern>
+      <template>Un bon choix, cette année notre voyage au Portugal sera en aout, son art de vivre un peu bohème, sa nonchalance arty, ses vieux tramways sautillants confèrent à la capitale portugaise ce charme si particulier souhaitez vous savoir le prix de ce voyage?
+      </template>
+   </category>
+
+   <category>
+      <pattern>* Portugal</pattern>
+      <template><srai>Portugal</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Lisbonne</pattern>
+      <template><srai>Portugal</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>un bon choix cette annee notre voyage au Portugal sera en aout son art de vivre un peu boheme sa nonchalance arty ses vieux tramways sautillants conferent a la capitale portugaise ce charme si particulier souhaitez vous savoir le prix de ce voyage</that>
+             <template>C'est de 1000 à 1300€ par personne</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>un bon choix cette annee notre voyage au Portugal sera en aout son art de vivre un peu boheme sa nonchalance arty ses vieux tramways sautillants conferent a la capitale portugaise ce charme si particulier souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage au Portugal?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage au portugal</that>
+             <template>le départ sera le 13 aout à 08h30</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage au portugal</that>
+             <template>Donc l'heure de départ pour le voyage au Portugal?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage au portugal</that>
+             <template> à 08h30 :)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage au Portugal</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+<!-- ESPAGNE -->
+        <category>
+      <pattern>Espagne</pattern>
+      <template>Un très bon choix, cette année notre voyage en Espagne sera juste amazing, Donc vous voulez savoir le prix de ce voyage?
+      </template>
+   </category>
+
+   <category>
+      <pattern>* Espagne</pattern>
+      <template><srai>ESPAGNE</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Madrid</pattern>
+      <template><srai>ESPAGNE</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>un tres bon choix cette annee notre voyage en espagne sera juste amazing donc vous voulez savoir le prix de ce voyage</that>
+             <template>de 800 à 1200 Euros par personne</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>un tres bon choix cette annee notre voyage en espagne sera juste amazing donc vous voulez savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Espagne?</template>
+        </category>
+
+        <category>
+      <pattern>NON *</pattern>
+      <template><srai>NON</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en espagne</that>
+             <template>Nous allons partir le 23 juillet avec le charme des ruelles de Séville puis les plaisirs de la côte, une semaine tous ensemble à rythme tranquille 8 jours</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en espagne</that>
+             <template>Donc l'heure de départ pour le voyage en Espagne?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en espagne</that>
+             <template>Le départ sera à 09h00</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en espagne</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+<!-- ITALIE -->
+        <category>
+      <pattern>Italie</pattern>
+      <template>Naples, la ville qui fait de vétusté vertu et porte fièrement les valeurs de son aristocratie, la ville aussi dont les marchés sont les plus éruptifs d Italie. Sorrente, qui se plait au miroir de la mer et met les citrons en bouteille, souhaitez vous savoir le prix de ce voyage?
+      </template>
+   </category>
+   
+   <category>
+      <pattern>* Italie</pattern>
+      <template><srai>Italie</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Rome</pattern>
+      <template><srai>Italie</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>naples la ville qui fait de vetuste vertu et porte fierement les valeurs de son aristocratie la ville aussi dont les marches sont les plus eruptifs d italie sorrente qui se plait au miroir de la mer et met les citrons en bouteille souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le budget estimé pour ce voyage est de 1800€ à 2400€/personne.</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>naples la ville qui fait de vetuste vertu et porte fierement les valeurs de son aristocratie la ville aussi dont les marches sont les plus eruptifs d italie sorrente qui se plait au miroir de la mer et met les citrons en bouteille souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Italie?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en italie</that>
+             <template>Nous allons partir le 11 juin pour 5 jours</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en italie</that>
+             <template>Donc l'heure de départ pour le voyage en Italie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en italie</that>
+             <template>Le départ sera à 13h10</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en italie</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+<!-- PRAGUE -->
+
+        <category>
+      <pattern>Prague</pattern>
+      <template>Un bon choix, cette année notre voyage à prague sera en aout, prague, la capitale magique de l’Europe, comme l'écrivait André Breton, a cette capacité de transporter celui qui la découvre au sommet d’une exaltation romantique. Souhaitez vous savoir le prix de ce voyage?
+      </template>
+   </category>
+
+   <category>
+      <pattern>* Prague</pattern>
+      <template><srai>Prague</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Republiqu Tcheque</pattern>
+      <template><srai>Prague</srai></template>
+   </category>
+
+   <category>
+      <pattern>Republiqu Tcheque</pattern>
+      <template><srai>Prague</srai></template>
+   </category>
+
+   <category>
+      <pattern>Republiqu*</pattern>
+      <template><srai>Prague</srai></template>
+   </category>
+   <category>
+      <pattern>Republiqu</pattern>
+      <template><srai>Prague</srai></template>
+   </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>un bon choix cette annee notre voyage a prague sera en aout prague la capitale magique de l europe comme l ecrivait andre breton a cette capacite de transporter celui qui la decouvre au sommet d une exaltation romantique souhaitez vous savoir le prix de ce voyage</that>
+             <template>C'est de 1000 à 1300€ par personne</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>un bon choix cette annee notre voyage a prague sera en aout prague la capitale magique de l europe comme l ecrivait andre breton a cette capacite de transporter celui qui la decouvre au sommet d une exaltation romantique souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage à Prague?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage a prague</that>
+             <template>le départ sera le 13 aout à 08h30</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage a prague</that>
+             <template>Donc l'heure de départ pour le voyage à Prague?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage a prague</that>
+             <template> à 08h30 :)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage a prague</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+
+<!-- TURQUIE -->
+
+    <category>
+      <pattern>Turquie</pattern>
+      <template>Un très bon choix, cette année notre voyage sera à Bodrum et ça serait en septembre, cette belle ville fut fondée par les Grecs sous le nom d’Halicarnasse, elle comprend deux baies jumelles avec vue sur le château Saint-Pierre. Souhaitez vous savoir le prix de ce voyage?</template>
+   </category>
+
+   <category>
+      <pattern>* Turquie</pattern>
+      <template><srai>Turquie</srai></template>
+   </category>
+
+   <category>
+      <pattern>* Istanbul</pattern>
+      <template><srai>Turquie</srai></template>
+   </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>un tres bon choix cette annee notre voyage sera a bodrum et ca serait en septembre cette belle ville fut fondee par les grecs sous le nom d halicarnasse elle comprend deux baies jumelles avec vue sur le chateau saint pierre souhaitez vous savoir le prix de ce voyage</that>
+             <template>Le prix du voyage sera de 1100 à 1400 Euros par personne pour 11 jours</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>un tres bon choix cette annee notre voyage sera a bodrum et ca serait en septembre cette belle ville fut fondee par les grecs sous le nom d halicarnasse elle comprend deux baies jumelles avec vue sur le chateau saint pierre souhaitez vous savoir le prix de ce voyage</that>
+             <template>Alors la date de départ pour le voyage en Turquie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>alors la date de depart pour le voyage en turquie</that>
+             <template>Nous proposons que le départ soit le 02 septembre à 17h00</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>alors la date de depart pour le voyage en turquie</that>
+             <template>Donc l'heure de départ pour le voyage en Turquie?</template>
+        </category>
+
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>donc l heure de depart pour le voyage en turquie</that>
+             <template>ver 17h00 :)</template>
+        </category>
+
+
+        <category>
+             <pattern>NON</pattern>
+             <that>donc l heure de depart pour le voyage en turquie</that>
+             <template>Ok, est-ce que vous voulez savoir comment confirmer la réservation de ce voyage?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Je vous demande d'envoyer un mail en mettant votre nom, prénom, date de naissance et votre numéro de téléphone ainsi le payé que vous souhaitez visiter à notre agence :  m.hamdan@outlook.fr</template>
+        </category>
+
+        <category>
+             <pattern>NON</pattern>
+             <that>ok est ce que vous voulez savoir comment confirmer la reservation de ce voyage</that>
+             <template>Ben, pour une dernière proposition, voulez vous laisser un message à l'agence?</template>
+        </category>
+
+        <category>
+             <pattern>OUI</pattern>
+             <that>ben pour une derniere proposition voulez vous laisser un message a l agence</that>
+             <template>Veuillez écrire votre message</template>
+        </category>
+
+        <category>
+             <pattern>*</pattern>
+             <that>veuillez ecrire votre message</that>
+             <template>Merci pour votre confience, nous allons vous répondre dans les meilleurs délais</template>
+        </category>
+
+</aiml>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+
+<category>
+	<pattern>* peur</pattern>
+		<template>
+			<random>
+			<li>Ah dommage, parce que tous nos voyages sont en avion</li>
+			<li>hmm, nos voyages pendant l'été sont uniquement en avion</li>
+			</random>
+		</template>
+</category>	
+
+
+<category>
+	<pattern>* peur *</pattern>
+		<template>
+			<srai>* peur</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>Train *</pattern>
+		<template>
+			<srai>* peur</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>* Train *</pattern>
+		<template>
+			<srai>* peur</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>* Train</pattern>
+		<template>
+			<srai>* peur</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>* Bateau</pattern>
+		<template>
+			<srai>* peur</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>Bateau *</pattern>
+		<template>
+			<srai>* peur</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>* Bateau *</pattern>
+		<template>
+			<srai>* peur</srai>
+		</template>
+</category>
+
+
+ <category>
+            <pattern>* Cher</pattern>
+              <template>
+            <srai>Cher</srai>
+        </template>
+        </category>
+
+        <category>
+            <pattern> Cher *</pattern>
+              <template>
+            <srai>Cher</srai>
+        </template>
+        </category>
+
+
+        <category>
+            <pattern>* Cher *</pattern>
+              <template>
+            <srai>Cher</srai>
+        </template>
+        </category>
+
+
+        <category>
+    <pattern>Say *</pattern>
+    <template>
+      <star/>
+      
+      <learn>
+        <category>
+          <pattern><eval><input index="2"/></eval></pattern>
+            <template>
+              <eval><star/></eval>.
+            </template>
+        </category>
+      </learn>
+    </template>
+  </category>
+
+  <category>
+    <pattern>Dites *</pattern>
+    <template>
+      <star/>
+      
+      <learn>
+        <category>
+          <pattern><eval><input index="2"/></eval></pattern>
+            <template>
+              <eval><star/></eval>.
+            </template>
+        </category>
+      </learn>
+    </template>
+  </category>
+
+
+
+
+<category>
+	<pattern>Con</pattern>
+		<template>
+			<random>
+			<li>Je ne peux supporter des gens me parlent comme ça</li>
+			<li>Soyez polis svp</li>
+			<li>Pourquoi vous me parlez comme ça?</li>
+			<li>Mais quelle est la raison de me parler comme ça?</li>
+			</random>
+		</template>
+</category>	
+
+
+
+
+<category>
+	<pattern>con *</pattern>
+		<template>
+			<srai>Con</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>* con *</pattern>
+		<template>
+			<srai>Con</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>* chiant</pattern>
+		<template>
+			<srai>Con</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>* connard</pattern>
+		<template>
+			<srai>Con</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>* spece de</pattern>
+		<template>
+			<srai>Con</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>* fils de</pattern>
+		<template>
+			<srai>Con</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>fils de *</pattern>
+		<template>
+			<srai>Con</srai>
+		</template>
+</category>
+
+<category>
+	<pattern>* fils de *</pattern>
+		<template>
+			<srai>Con</srai>
+		</template>
+</category>
+
+
+<category>
+	<pattern>* servez à rien</pattern>
+		<template>
+			<srai>Con</srai>
+		</template>
+</category>
+
+
+
+<category>
+	<pattern>cassez vous</pattern>
+		<template>
+			<srai>Con</srai>
+		</template>
+</category>
+
+
+
+<category>
+	<pattern>Merde</pattern>
+		<template>
+			<srai>Con</srai>
+		</template>
+</category>
+
+
+
+<category>
+	<pattern>Putain</pattern>
+		<template>
+			<srai>Con</srai>
+		</template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</aiml>
+
